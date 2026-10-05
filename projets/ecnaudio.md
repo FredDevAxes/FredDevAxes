@@ -17,12 +17,12 @@ I was the React Native mobile developer responsible for the app, first at Big Bo
 
 ## Portfolio
 
-![Portfolio presentation — ECNAudio](../assets/projets/ecnaudio/ecnaudio-portfolio.png)
+![Portfolio presentation — ECNAudio](../assets/projets/ecnaudio/ecnaudio-portfolio-en-a07e9320c648.png)
 
-[Open the portfolio (PDF)](../assets/projets/ecnaudio/ecnaudio-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/ecnaudio/ecnaudio-portfolio-en-2fd463302cb9.pdf)
 
 ## Gallery
 
-![Gallery — ECNAudio](../assets/projets/ecnaudio/ecnaudio-gallery.png)
+![Gallery — ECNAudio](../assets/projets/ecnaudio/ecnaudio-gallery-en-eb00b63204ec.png)
 
 [← All projects](../README.md)

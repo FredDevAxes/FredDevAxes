@@ -17,12 +17,12 @@ I contributed to Android development in Kotlin. I worked on the Bluetooth servic
 
 ## Portfolio
 
-![Portfolio presentation — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-portfolio.png)
+![Portfolio presentation — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-portfolio-en-904d98e8e354.png)
 
-[Open the portfolio (PDF)](../assets/projets/hoop-hook/hoop-hook-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/hoop-hook/hoop-hook-portfolio-en-ac2417d94e9d.pdf)
 
 ## Gallery
 
-![Gallery — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-gallery.png)
+![Gallery — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-gallery-en-50bc2c9245d4.png)
 
 [← All projects](../README.md)

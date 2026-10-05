@@ -19,12 +19,12 @@ From February 2022 to January 2023, I worked as a subcontractor for Big Boss Stu
 
 ## Portfolio
 
-![Portfolio presentation — Sauv'Life](../assets/projets/sauvlife/sauvlife-portfolio.png)
+![Portfolio presentation — Sauv'Life](../assets/projets/sauvlife/sauvlife-portfolio-en-2d4d59dc4d2c.png)
 
-[Open the portfolio (PDF)](../assets/projets/sauvlife/sauvlife-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/sauvlife/sauvlife-portfolio-en-3db2dce61858.pdf)
 
 ## Gallery
 
-![Gallery — Sauv'Life](../assets/projets/sauvlife/sauvlife-gallery.png)
+![Gallery — Sauv'Life](../assets/projets/sauvlife/sauvlife-gallery-en-30ca187fc0e2.png)
 
 [← All projects](../README.md)

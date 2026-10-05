@@ -19,12 +19,12 @@ From September 2021 to March 2022, I worked as a subcontractor for Big Boss Stud
 
 ## Portfolio
 
-![Portfolio presentation — Application Parc Astérix](../assets/projets/parc-asterix/parc-asterix-portfolio.png)
+![Portfolio presentation — Application Parc Astérix](../assets/projets/parc-asterix/parc-asterix-portfolio-en-bf13a76ad9cd.png)
 
-[Open the portfolio (PDF)](../assets/projets/parc-asterix/parc-asterix-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/parc-asterix/parc-asterix-portfolio-en-be0b4454c2ae.pdf)
 
 ## Gallery
 
-![Gallery — Application Parc Astérix](../assets/projets/parc-asterix/parc-asterix-gallery.png)
+![Gallery — Application Parc Astérix](../assets/projets/parc-asterix/parc-asterix-gallery-en-eb281d0fc142.png)
 
 [← All projects](../README.md)

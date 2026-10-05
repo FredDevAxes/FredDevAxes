@@ -17,8 +17,8 @@ I worked on this app at Big Boss Studio in a subcontracting context. My work con
 
 ## Portfolio
 
-![Portfolio presentation — Samsung Watch Retail](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)
+![Portfolio presentation — Samsung Watch Retail](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-en-b5c7b68cebee.png)
 
-[Open the portfolio (PDF)](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-en-548cd5490631.pdf)
 
 [← All projects](../README.md)

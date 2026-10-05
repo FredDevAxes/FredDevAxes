@@ -19,12 +19,12 @@ I was Tech Lead Mobile from April 2023 to September 2026. I led the rebuild of t
 
 ## Portfolio
 
-![Portfolio presentation — Feel](../assets/projets/feel/feel-portfolio.png)
+![Portfolio presentation — Feel](../assets/projets/feel/feel-portfolio-en-d7a5a1806990.png)
 
-[Open the portfolio (PDF)](../assets/projets/feel/feel-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/feel/feel-portfolio-en-4a0fd9cdbc63.pdf)
 
 ## Gallery
 
-![Gallery — Feel](../assets/projets/feel/feel-gallery.png)
+![Gallery — Feel](../assets/projets/feel/feel-gallery-en-36d13bf90a63.png)
 
 [← All projects](../README.md)

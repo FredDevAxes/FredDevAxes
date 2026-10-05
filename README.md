@@ -18,7 +18,7 @@ Here you’ll find the projects I’ve contributed to, my role and the skills in
 
 ### [Feel](projets/feel.md)
 
-[![Portfolio presentation — Feel](assets/projets/feel/feel-portfolio.png)](projets/feel.md)
+[![Portfolio presentation — Feel](assets/projets/feel/feel-portfolio-en-d7a5a1806990.png)](projets/feel.md)
 
 Mobile mental health and wellbeing app. Android/iOS rebuild, maintenance and product development in a Tech Lead Mobile role.
 
@@ -30,7 +30,7 @@ Mobile mental health and wellbeing app. Android/iOS rebuild, maintenance and pro
 
 ### [OOTI](projets/ooti.md)
 
-[![Portfolio presentation — OOTI](assets/projets/ooti/ooti-portfolio.png)](projets/ooti.md)
+[![Portfolio presentation — OOTI](assets/projets/ooti/ooti-portfolio-en-0e8ae394bc6e.png)](projets/ooti.md)
 
 Rebuild of OOTI's iOS and Android apps, an ERP for architecture firms. Project workflows, time entry, expenses and approvals in React Native.
 
@@ -42,7 +42,7 @@ Rebuild of OOTI's iOS and Android apps, an ERP for architecture firms. Project w
 
 ### [Sauv'Life](projets/sauvlife.md)
 
-[![Portfolio presentation — Sauv'Life](assets/projets/sauvlife/sauvlife-portfolio.png)](projets/sauvlife.md)
+[![Portfolio presentation — Sauv'Life](assets/projets/sauvlife/sauvlife-portfolio-en-2d4d59dc4d2c.png)](projets/sauvlife.md)
 
 Android/iOS mobile rebuild engagement for Sauv’Life, an app for volunteer responders alerted by French emergency medical services (SAMU). Geolocation, navigation and degraded networks.
 
@@ -54,7 +54,7 @@ Android/iOS mobile rebuild engagement for Sauv’Life, an app for volunteer resp
 
 ### [GameTime](projets/gametime.md)
 
-[![Portfolio presentation — GameTime](assets/projets/gametime/gametime-portfolio.png)](projets/gametime.md)
+[![Portfolio presentation — GameTime](assets/projets/gametime/gametime-portfolio-en-e691f3fa0030.png)](projets/gametime.md)
 
 Android time-management app for board games, with Bluetooth synchronisation and game recovery. Delivered and distributed within a private circle, outside the app stores.
 
@@ -66,7 +66,7 @@ Android time-management app for board games, with Bluetooth synchronisation and 
 
 ### [Hoop Hook](projets/hoop-hook.md)
 
-[![Portfolio presentation — Hoop Hook](assets/projets/hoop-hook/hoop-hook-portfolio.png)](projets/hoop-hook.md)
+[![Portfolio presentation — Hoop Hook](assets/projets/hoop-hook/hoop-hook-portfolio-en-904d98e8e354.png)](projets/hoop-hook.md)
 
 Connected basketball Android app delivered to the client. Bluetooth connection to the sensor, state monitoring and several game modes.
 
@@ -78,7 +78,7 @@ Connected basketball Android app delivered to the client. Bluetooth connection t
 
 ### [Application Parc Astérix](projets/parc-asterix.md)
 
-[![Portfolio presentation — Application Parc Astérix](assets/projets/parc-asterix/parc-asterix-portfolio.png)](projets/parc-asterix.md)
+[![Portfolio presentation — Application Parc Astérix](assets/projets/parc-asterix/parc-asterix-portfolio-en-bf13a76ad9cd.png)](projets/parc-asterix.md)
 
 Maintenance and development of the official Parc Astérix iOS and Android app: map, search, attractions and food services, in React Native.
 
@@ -90,7 +90,7 @@ Maintenance and development of the official Parc Astérix iOS and Android app: m
 
 ### [OOPET Love](projets/oopet-love.md)
 
-[![Portfolio presentation — OOPET Love](assets/projets/oopet-love/oopet-love-portfolio.png)](projets/oopet-love.md)
+[![Portfolio presentation — OOPET Love](assets/projets/oopet-love/oopet-love-portfolio-en-16d4057d809e.png)](projets/oopet-love.md)
 
 Social Android app for pet owners: profiles, messaging, and photo and video sharing, based on a Kotlin foundation shared with OOPET Lost.
 
@@ -102,7 +102,7 @@ Social Android app for pet owners: profiles, messaging, and photo and video shar
 
 ### [Laundrapp](projets/laundrapp.md)
 
-[![Portfolio presentation — Laundrapp](assets/projets/laundrapp/laundrapp-portfolio.png)](projets/laundrapp.md)
+[![Portfolio presentation — Laundrapp](assets/projets/laundrapp/laundrapp-portfolio-en-8a65c733b8ba.png)](projets/laundrapp.md)
 
 On-demand laundry Android apps: maintenance of the customer app and creation of the courier app, with routes and location tracking.
 
@@ -114,7 +114,7 @@ On-demand laundry Android apps: maintenance of the customer app and creation of 
 
 ### [Olfaplay](projets/olfaplay.md)
 
-[![Portfolio presentation — Olfaplay](assets/projets/olfaplay/olfaplay-portfolio.png)](projets/olfaplay.md)
+[![Portfolio presentation — Olfaplay](assets/projets/olfaplay/olfaplay-portfolio-en-dd66f05a6166.png)](projets/olfaplay.md)
 
 Contribution to the mobile apps for Olfaplay, Guerlain's audio platform: story recording, streaming and moderation. Work through Big Boss Studio.
 
@@ -126,7 +126,7 @@ Contribution to the mobile apps for Olfaplay, Guerlain's audio platform: story r
 
 ### [TSF Jazz](projets/tsf-jazz.md)
 
-[![Portfolio presentation — TSF Jazz](assets/projets/tsf-jazz/tsf-jazz-portfolio.png)](projets/tsf-jazz.md)
+[![Portfolio presentation — TSF Jazz](assets/projets/tsf-jazz/tsf-jazz-portfolio-en-2154a4194dab.png)](projets/tsf-jazz.md)
 
 React Native mobile development for the TSF Jazz app: live radio, podcasts, themed streams and editorial content on iOS and Android.
 
@@ -138,7 +138,7 @@ React Native mobile development for the TSF Jazz app: live radio, podcasts, them
 
 ### [ECNAudio](projets/ecnaudio.md)
 
-[![Portfolio presentation — ECNAudio](assets/projets/ecnaudio/ecnaudio-portfolio.png)](projets/ecnaudio.md)
+[![Portfolio presentation — ECNAudio](assets/projets/ecnaudio/ecnaudio-portfolio-en-a07e9320c648.png)](projets/ecnaudio.md)
 
 ECNAudio prepared medical students for the French national ranking examinations. I developed the React Native app: audio lessons, downloadable notes and offline listening.
 
@@ -150,7 +150,7 @@ ECNAudio prepared medical students for the French national ranking examinations.
 
 ### [Samsung Watch Retail](projets/samsung-watch-retail.md)
 
-[![Portfolio presentation — Samsung Watch Retail](assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)](projets/samsung-watch-retail.md)
+[![Portfolio presentation — Samsung Watch Retail](assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-en-b5c7b68cebee.png)](projets/samsung-watch-retail.md)
 
 Galaxy Watch Android demonstration app on an in-store kiosk, with kiosk mode and reset between visitors. Project carried out as subcontracting work.
 

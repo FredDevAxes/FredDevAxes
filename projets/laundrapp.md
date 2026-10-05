@@ -19,12 +19,12 @@ I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Androi
 
 ## Portfolio
 
-![Portfolio presentation — Laundrapp](../assets/projets/laundrapp/laundrapp-portfolio.png)
+![Portfolio presentation — Laundrapp](../assets/projets/laundrapp/laundrapp-portfolio-en-8a65c733b8ba.png)
 
-[Open the portfolio (PDF)](../assets/projets/laundrapp/laundrapp-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/laundrapp/laundrapp-portfolio-en-2896e66c4d76.pdf)
 
 ## Gallery
 
-![Gallery — Laundrapp](../assets/projets/laundrapp/laundrapp-gallery.png)
+![Gallery — Laundrapp](../assets/projets/laundrapp/laundrapp-gallery-en-55f6b466bc3a.png)
 
 [← All projects](../README.md)

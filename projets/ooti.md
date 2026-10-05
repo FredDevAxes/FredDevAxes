@@ -19,12 +19,12 @@ I worked as a Senior Mobile Developer from June 2022 to January 2023 to take ove
 
 ## Portfolio
 
-![Portfolio presentation — OOTI](../assets/projets/ooti/ooti-portfolio.png)
+![Portfolio presentation — OOTI](../assets/projets/ooti/ooti-portfolio-en-0e8ae394bc6e.png)
 
-[Open the portfolio (PDF)](../assets/projets/ooti/ooti-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/ooti/ooti-portfolio-en-d4cc64cc41ed.pdf)
 
 ## Gallery
 
-![Gallery — OOTI](../assets/projets/ooti/ooti-gallery.png)
+![Gallery — OOTI](../assets/projets/ooti/ooti-gallery-en-8dfe648d55ec.png)
 
 [← All projects](../README.md)

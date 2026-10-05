@@ -17,12 +17,12 @@ At Big Boss Studio, I was the React Native mobile developer responsible for this
 
 ## Portfolio
 
-![Portfolio presentation — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-portfolio.png)
+![Portfolio presentation — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-portfolio-en-2154a4194dab.png)
 
-[Open the portfolio (PDF)](../assets/projets/tsf-jazz/tsf-jazz-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/tsf-jazz/tsf-jazz-portfolio-en-cd157314d226.pdf)
 
 ## Gallery
 
-![Gallery — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-gallery.png)
+![Gallery — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-gallery-en-c17a100426f8.png)
 
 [← All projects](../README.md)

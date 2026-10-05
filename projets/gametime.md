@@ -19,12 +19,12 @@ I developed the native Android app in Kotlin as part of an engagement from May 2
 
 ## Portfolio
 
-![Portfolio presentation — GameTime](../assets/projets/gametime/gametime-portfolio.png)
+![Portfolio presentation — GameTime](../assets/projets/gametime/gametime-portfolio-en-e691f3fa0030.png)
 
-[Open the portfolio (PDF)](../assets/projets/gametime/gametime-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/gametime/gametime-portfolio-en-edbe9f9d31f3.pdf)
 
 ## Gallery
 
-![Gallery — GameTime](../assets/projets/gametime/gametime-gallery.png)
+![Gallery — GameTime](../assets/projets/gametime/gametime-gallery-en-2f3efa969d8f.png)
 
 [← All projects](../README.md)

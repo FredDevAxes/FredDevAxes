@@ -17,12 +17,12 @@ I worked on the Android app in Kotlin, particularly messaging, photo and video m
 
 ## Portfolio
 
-![Portfolio presentation — OOPET Love](../assets/projets/oopet-love/oopet-love-portfolio.png)
+![Portfolio presentation — OOPET Love](../assets/projets/oopet-love/oopet-love-portfolio-en-16d4057d809e.png)
 
-[Open the portfolio (PDF)](../assets/projets/oopet-love/oopet-love-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/oopet-love/oopet-love-portfolio-en-995b86f61836.pdf)
 
 ## Gallery
 
-![Gallery — OOPET Love](../assets/projets/oopet-love/oopet-love-gallery.png)
+![Gallery — OOPET Love](../assets/projets/oopet-love/oopet-love-gallery-en-941b902e5d95.png)
 
 [← All projects](../README.md)

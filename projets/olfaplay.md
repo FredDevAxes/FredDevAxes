@@ -19,8 +19,8 @@ From March to November 2018, I contributed to the iOS and Android mobile apps at
 
 ## Portfolio
 
-![Portfolio presentation — Olfaplay](../assets/projets/olfaplay/olfaplay-portfolio.png)
+![Portfolio presentation — Olfaplay](../assets/projets/olfaplay/olfaplay-portfolio-en-dd66f05a6166.png)
 
-[Open the portfolio (PDF)](../assets/projets/olfaplay/olfaplay-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/olfaplay/olfaplay-portfolio-en-802e924f73ab.pdf)
 
 [← All projects](../README.md)
