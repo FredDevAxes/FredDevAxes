@@ -1,26 +1,26 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Olfaplay
 
-Olfaplay était une plateforme de récits audio imaginée par Guerlain autour des souvenirs liés aux parfums. Un utilisateur pouvait enregistrer une histoire, lui donner un titre et une image, puis la soumettre à modération avant sa publication. Les récits publiés pouvaient être écoutés en streaming, aimés et commentés ; on pouvait aussi suivre des comptes et explorer les contenus par humeur ou par famille olfactive. Le produit existait sur mobile et sur le web. Son lancement public a eu lieu en décembre 2018.
+Olfaplay was an audio-story platform conceived by Guerlain around memories associated with scents. Users could record a story, give it a title and an image, then submit it for moderation before publication. Published stories could be streamed, liked and commented on; users could also follow accounts and explore content by mood or scent family. The product existed on mobile and the web. Its public launch took place in December 2018.
 
-De mars à novembre 2018, j’ai contribué aux applications mobiles iOS et Android chez Big Boss Studio, prestataire du projet. J’ai travaillé sur les parcours d’enregistrement, la lecture audio en streaming, les filtres et l’intégration avec le dispositif de modération. Cette contribution portait sur la version livrée pour le lancement public de décembre 2018.
+From March to November 2018, I contributed to the iOS and Android mobile apps at Big Boss Studio, a vendor on the project. I worked on recording journeys, streaming audio playback, filters and integration with the moderation system. This contribution concerned the version delivered for the public launch in December 2018.
 
-## Compétences
+## Skills
 
-**Compétences :** développement mobile · iOS · Android · enregistrement audio · streaming audio.
+**Skills:** mobile development · iOS · Android · audio recording · audio streaming.
 
-**Période :** mars 2018 – novembre 2018.
+**Period:** March 2018 – November 2018.
 
 ## Portfolio
 
-![Présentation portfolio — Olfaplay](../assets/projets/olfaplay/olfaplay-portfolio.png)
+![Portfolio presentation — Olfaplay](../assets/projets/olfaplay/olfaplay-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/olfaplay/olfaplay-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/olfaplay/olfaplay-portfolio.pdf)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

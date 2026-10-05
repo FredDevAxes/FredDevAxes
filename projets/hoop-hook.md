@@ -1,28 +1,28 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Hoop Hook
 
-Hoop Hook est une application Android native pour un dispositif de basket connecté. Elle communique en Bluetooth Low Energy avec un capteur, suit son état et propose plusieurs modes de jeu. Le mobile gère la connexion avec l’équipement, l’état de la batterie et les informations utiles pendant une session. Le produit a été livré au client.
+Hoop Hook is a native Android app for a connected basketball device. It communicates with a sensor over Bluetooth Low Energy, monitors its state and offers several game modes. The mobile app manages the equipment connection, battery state and useful information during a session. The product was delivered to the client.
 
-J’ai contribué au développement Android en Kotlin. J’ai travaillé sur le service Bluetooth, l’évolution de la prise en charge du capteur, les états de batterie, plusieurs modes de jeu dont Fisher, ainsi que l’authentification et les notifications Firebase. Ce travail relie la logique de jeu aux contraintes concrètes d’un équipement connecté.
+I contributed to Android development in Kotlin. I worked on the Bluetooth service, changes to sensor support, battery states, several game modes including Fisher, as well as Firebase authentication and notifications. This work connects game logic with the practical constraints of connected equipment.
 
-## Compétences
+## Skills
 
-**Compétences :** Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase.
+**Skills:** Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase.
 
 ## Portfolio
 
-![Présentation portfolio — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-portfolio.png)
+![Portfolio presentation — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/hoop-hook/hoop-hook-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/hoop-hook/hoop-hook-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-gallery.png)
+![Gallery — Hoop Hook](../assets/projets/hoop-hook/hoop-hook-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

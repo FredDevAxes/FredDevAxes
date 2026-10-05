@@ -1,30 +1,30 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Laundrapp
 
-Laundrapp proposait au Royaume-Uni un service de blanchisserie et de pressing à la demande, avec collecte puis livraison des vêtements. Le mobile couvrait deux usages distincts : côté client, commander et suivre le service ; côté livreurs, prendre en charge les commandes, organiser les tournées et partager la position pendant les trajets. Ce second parcours devait s’articuler avec les opérations sur le terrain et avec un parc de terminaux Android gérés par l’entreprise.
+Laundrapp offered on-demand laundry and dry cleaning in the United Kingdom, with collection and delivery of clothes. Mobile served two distinct uses: customers ordering and tracking the service; couriers handling orders, organising routes and sharing their location while travelling. This second journey had to fit into field operations and a fleet of company-managed Android devices.
 
-J’ai travaillé chez Laundrapp à Londres de mars 2015 à mars 2016 comme Développeur Android Senior. J’étais responsable du développement et de la maintenance de l’application Android client, distribuée sur Google Play et l’Amazon Appstore. J’ai aussi conçu et développé de zéro l’application Android destinée aux livreurs, avec la prise de commandes, les tournées et le suivi de position. Mon travail comprenait les analytics, le suivi des crashs, les feature flags et les builds automatisés. Avec les équipes opérationnelles, j’ai travaillé sur la gestion du parc de terminaux, notamment sur les outils Android de contrôle et de provisioning NFC.
+I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Android Developer. I was responsible for developing and maintaining the customer Android app, distributed on Google Play and the Amazon Appstore. I also designed and built the courier Android app from scratch, with order handling, routes and location tracking. My work included analytics, crash reporting, feature flags and automated builds. With the operations teams, I worked on device fleet management, particularly Android control tools and NFC provisioning.
 
-## Compétences
+## Skills
 
-**Compétences :** Android · Java · Google Maps · provisioning NFC · CI/CD mobile.
+**Skills:** Android · Java · Google Maps · NFC provisioning · mobile CI/CD.
 
-**Période :** mars 2015 – mars 2016.
+**Period:** March 2015 – March 2016.
 
 ## Portfolio
 
-![Présentation portfolio — Laundrapp](../assets/projets/laundrapp/laundrapp-portfolio.png)
+![Portfolio presentation — Laundrapp](../assets/projets/laundrapp/laundrapp-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/laundrapp/laundrapp-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/laundrapp/laundrapp-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — Laundrapp](../assets/projets/laundrapp/laundrapp-gallery.png)
+![Gallery — Laundrapp](../assets/projets/laundrapp/laundrapp-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

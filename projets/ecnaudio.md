@@ -1,28 +1,28 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # ECNAudio
 
-ECNAudio était une application de préparation aux Épreuves Classantes Nationales destinée aux étudiants en médecine. Elle rassemblait près de 200 heures de cours audio et des fiches de synthèse téléchargeables. Le programme était organisé par matières et par items, pour permettre de retrouver un contenu de révision et de l’écouter au fil de la journée. L’écoute en arrière-plan et l’accès hors connexion répondaient à cet usage mobile, sans imposer de rester dans l’application ni de disposer en permanence du réseau.
+ECNAudio was an app for medical students preparing for the French national ranking examinations (ECN). It brought together nearly 200 hours of audio lessons and downloadable revision notes. The programme was organised by subject and topic, allowing students to find revision material and listen to it throughout the day. Background listening and offline access supported this mobile use, without requiring them to stay in the app or have a permanent network connection.
 
-J’ai été le développeur mobile React Native en charge de l’application, d’abord chez Big Boss Studio, puis pendant quelque temps en indépendant après mon départ de l’agence. J’ai travaillé sur l’expérience de lecture audio, les téléchargements, l’accès hors connexion, l’écoute en arrière-plan et la gestion d’un catalogue de contenus volumineux.
+I was the React Native mobile developer responsible for the app, first at Big Boss Studio, then for a while as an independent contractor after leaving the agency. I worked on the audio playback experience, downloads, offline access, background listening and management of a large content catalogue.
 
-## Compétences
+## Skills
 
-**Compétences :** React Native · développement mobile · lecture audio · téléchargement hors connexion · lecture en arrière-plan.
+**Skills:** React Native · mobile development · audio playback · offline downloading · background playback.
 
 ## Portfolio
 
-![Présentation portfolio — ECNAudio](../assets/projets/ecnaudio/ecnaudio-portfolio.png)
+![Portfolio presentation — ECNAudio](../assets/projets/ecnaudio/ecnaudio-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/ecnaudio/ecnaudio-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/ecnaudio/ecnaudio-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — ECNAudio](../assets/projets/ecnaudio/ecnaudio-gallery.png)
+![Gallery — ECNAudio](../assets/projets/ecnaudio/ecnaudio-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

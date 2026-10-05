@@ -1,18 +1,18 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # AXA Drive
 
-AXA Drive était une application Android destinée aux trajets du quotidien. Elle proposait des alertes météo et trafic sur les parcours prévus et indiquait un moment opportun pour partir. Pendant et après le trajet, l’utilisateur pouvait consulter une évaluation de sa conduite, fondée notamment sur le freinage, la vitesse et les virages, puis revoir son parcours grâce à une fonction de rejeu.
+AXA Drive was an Android app for everyday journeys. It provided weather and traffic alerts for planned routes and suggested a suitable time to leave. During and after a journey, users could view an assessment of their driving, based in particular on braking, speed and turns, then review their route with a replay feature.
 
-Chez Big Boss Studio, j’étais en charge de l’application Android native dans son ensemble.
+At Big Boss Studio, I was responsible for the native Android app as a whole.
 
-## Compétences
+## Skills
 
-**Compétences :** Android natif et responsabilité de l’application.
+**Skills:** native Android and responsibility for the app.
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

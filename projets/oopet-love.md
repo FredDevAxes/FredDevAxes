@@ -1,28 +1,28 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # OOPET Love
 
-OOPET Love est une application Android sociale autour des animaux de compagnie et de leurs propriétaires. Elle réunit des profils et des interactions, de la messagerie, ainsi que des parcours de sélection et de partage de photos et de vidéos. Le projet appartenait à un ensemble de produits pour le même client : OOPET Love et OOPET Lost sont deux applications distinctes qui partageaient une bibliothèque Kotlin commune.
+OOPET Love is a social Android app centred on pets and their owners. It brings together profiles and interactions, messaging, and journeys for selecting and sharing photos and videos. The project belonged to a set of products for the same client: OOPET Love and OOPET Lost are two distinct apps that shared a common Kotlin library.
 
-J’ai travaillé sur l’application Android en Kotlin, notamment sur la messagerie, la gestion des médias photo et vidéo, le composant de sélection de médias et le versioning applicatif.
+I worked on the Android app in Kotlin, particularly messaging, photo and video media management, the media selection component and app versioning.
 
-## Compétences
+## Skills
 
-**Compétences :** Kotlin · Android Jetpack · messagerie mobile · gestion de médias · Firebase.
+**Skills:** Kotlin · Android Jetpack · mobile messaging · media management · Firebase.
 
 ## Portfolio
 
-![Présentation portfolio — OOPET Love](../assets/projets/oopet-love/oopet-love-portfolio.png)
+![Portfolio presentation — OOPET Love](../assets/projets/oopet-love/oopet-love-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/oopet-love/oopet-love-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/oopet-love/oopet-love-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — OOPET Love](../assets/projets/oopet-love/oopet-love-gallery.png)
+![Gallery — OOPET Love](../assets/projets/oopet-love/oopet-love-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

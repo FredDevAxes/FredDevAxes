@@ -1,30 +1,30 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Feel
 
-Feel est une application mobile de santé mentale et de bien-être. Son parcours s’appuie sur les thérapies cognitives et comportementales et associe vidéos, exercices et suivi des émotions. C’est un produit qui demande de faire tenir ensemble la clarté des parcours, la fiabilité de l’application et les contraintes de livraison sur Android et iOS. L’application a atteint des dizaines de milliers de téléchargements sur Google Play.
+Feel is a mobile mental health and wellbeing app. Its programme draws on cognitive behavioural therapies and combines videos, exercises and emotion tracking. The product requires clear user journeys, app reliability and the constraints of delivery on Android and iOS to work together. The app has reached tens of thousands of downloads on Google Play.
 
-J’ai assuré le rôle de Tech Lead Mobile d’avril 2023 à septembre 2026. J’ai piloté la refonte des applications Android et iOS, puis leur maintenance et leurs évolutions. Mon intervention couvrait l’architecture et le développement de l’application React Native et TypeScript, les couches natives et la livraison mobile.
+I was Tech Lead Mobile from April 2023 to September 2026. I led the rebuild of the Android and iOS apps, followed by their maintenance and ongoing development. My work covered the architecture and development of the React Native and TypeScript app, the native layers and mobile delivery.
 
-## Compétences
+## Skills
 
-**Compétences :** React Native · TypeScript · Kotlin · architecture mobile · pilotage technique.
+**Skills:** React Native · TypeScript · Kotlin · mobile architecture · technical leadership.
 
-**Période :** avril 2023 – septembre 2026.
+**Period:** April 2023 – September 2026.
 
 ## Portfolio
 
-![Présentation portfolio — Feel](../assets/projets/feel/feel-portfolio.png)
+![Portfolio presentation — Feel](../assets/projets/feel/feel-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/feel/feel-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/feel/feel-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — Feel](../assets/projets/feel/feel-gallery.png)
+![Gallery — Feel](../assets/projets/feel/feel-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

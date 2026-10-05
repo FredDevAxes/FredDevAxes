@@ -1,30 +1,30 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # GameTime
 
-GameTime est une application Android pour les jeux de plateau dont les tours se jouent avec un temps limité. Chaque joueur suit son temps restant et signale la fin de son tour avec un buzzer. Les appareils rejoignent la même partie en Bluetooth, ce qui permet de partager l’état du jeu entre les participants. Le parcours comprend la création d’une partie ou la connexion à une partie existante, le choix des joueurs et des réglages de temps, puis le déroulement de la session. Une partie peut reprendre après une déconnexion.
+GameTime is an Android app for board games with time-limited turns. Each player tracks their remaining time and signals the end of their turn with a buzzer. Devices join the same game over Bluetooth, allowing the game state to be shared between participants. The journey includes creating a game or joining an existing one, choosing players and time settings, then playing the session. A game can resume after a disconnection.
 
-J’ai développé l’application Android native en Kotlin dans le cadre d’une mission menée de mai 2021 à février 2022. Mon travail couvrait l’architecture de l’application, les écrans de préparation et de jeu, la synchronisation Bluetooth et la reprise de partie. Le produit a été livré pour une diffusion privée, hors des stores.
+I developed the native Android app in Kotlin as part of an engagement from May 2021 to February 2022. My work covered the app architecture, preparation and gameplay screens, Bluetooth synchronisation and game recovery. The product was delivered for private distribution outside the app stores.
 
-## Compétences
+## Skills
 
-**Compétences :** Kotlin · Android · Bluetooth · MVVM · Room.
+**Skills:** Kotlin · Android · Bluetooth · MVVM · Room.
 
-**Période :** mai 2021 – février 2022.
+**Period:** May 2021 – February 2022.
 
 ## Portfolio
 
-![Présentation portfolio — GameTime](../assets/projets/gametime/gametime-portfolio.png)
+![Portfolio presentation — GameTime](../assets/projets/gametime/gametime-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/gametime/gametime-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/gametime/gametime-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — GameTime](../assets/projets/gametime/gametime-gallery.png)
+![Gallery — GameTime](../assets/projets/gametime/gametime-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

@@ -1,24 +1,24 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Samsung Watch Retail
 
-Samsung Watch Retail est une application Android de démonstration installée sur une borne en point de vente. Elle permettait aux visiteurs d’explorer les possibilités de personnalisation d’une Galaxy Watch, notamment les cadrans et les bracelets. Dans ce contexte, l’application devait rester disponible pour un usage public non supervisé : elle fonctionnait en mode kiosque et revenait à son état initial entre deux visites, afin que chaque personne retrouve une démonstration propre.
+Samsung Watch Retail is an Android demonstration app installed on a retail kiosk. It allowed visitors to explore Galaxy Watch customisation options, particularly watch faces and straps. In this context, the app had to remain available for unsupervised public use: it ran in kiosk mode and returned to its initial state between visits, so that each person encountered a fresh demonstration.
 
-J’ai travaillé sur cette application chez Big Boss Studio, dans un contexte de sous-traitance. Mon intervention portait sur le développement Android en Kotlin et sur les contraintes propres à la borne, en particulier le mode kiosque et la réinitialisation de session.
+I worked on this app at Big Boss Studio in a subcontracting context. My work concerned Android development in Kotlin and kiosk-specific constraints, particularly kiosk mode and session reset.
 
-## Compétences
+## Skills
 
-**Compétences :** Kotlin · Android · mode kiosque · réinitialisation de session · intégration sur borne.
+**Skills:** Kotlin · Android · kiosk mode · session reset · kiosk integration.
 
 ## Portfolio
 
-![Présentation portfolio — Samsung Watch Retail](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)
+![Portfolio presentation — Samsung Watch Retail](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.pdf)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

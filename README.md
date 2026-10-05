@@ -1,202 +1,202 @@
-![Bannière LinkedIn DevAxes — logiciels et échange autour de votre projet](assets/devaxes/linkedin-banner.jpg)
+![DevAxes banner — software development and a conversation about your project](assets/devaxes/linkedin-banner.jpg)
 
 # Frédéric Raimondi
 
-## Développeur Mobile Senior
+## Senior Mobile Developer
 
 **Android / Kotlin · React Native / TypeScript**
 
-Je suis développeur mobile senior et fondateur de DevAxes, à Nice. J’ai plus de quatorze ans d’expérience en développement mobile, en Android natif avec Kotlin et en React Native avec TypeScript pour Android et iOS.
+I’m a senior mobile developer and the founder of DevAxes, based in Nice, France. I have more than fourteen years of experience in mobile development, working with native Android in Kotlin and React Native in TypeScript for Android and iOS.
 
-Je travaille sur la création, la reprise et l’évolution d’applications, de l’architecture à la livraison sur les stores. Selon le projet, j’interviens en renfort de l’équipe ou comme référent technique, avec la revue de code, la CI/CD et l’accompagnement des développeurs.
+I build new apps and take over existing ones, from architecture to app store delivery and ongoing development. Depending on the project, I join the team as a developer or take on technical leadership, including code reviews, CI/CD and mentoring.
 
-Vous trouverez ici les projets auxquels j’ai contribué, mon rôle et les compétences mobilisées. Pour échanger sur votre application, vous pouvez me contacter sur [LinkedIn](https://www.linkedin.com/in/freddev06) ou sur [Malt](https://www.malt.fr/profile/fredericraimondi).
+Here you’ll find the projects I’ve contributed to, my role and the skills involved. To discuss your app, you can contact me on [LinkedIn](https://www.linkedin.com/in/freddev06) or [Malt](https://www.malt.fr/profile/fredericraimondi).
 
 ---
 
-## Projets
+## Projects
 
 ### [Feel](projets/feel.md)
 
-[![Présentation portfolio — Feel](assets/projets/feel/feel-portfolio.png)](projets/feel.md)
+[![Portfolio presentation — Feel](assets/projets/feel/feel-portfolio.png)](projets/feel.md)
 
-Application mobile de santé mentale et de bien-être. Refonte Android/iOS, maintenance et évolutions du produit dans un rôle de Tech Lead Mobile.
+Mobile mental health and wellbeing app. Android/iOS rebuild, maintenance and product development in a Tech Lead Mobile role.
 
-**Compétences :** React Native · TypeScript · Kotlin · architecture mobile · pilotage technique.
+**Skills:** React Native · TypeScript · Kotlin · mobile architecture · technical leadership.
 
-[Découvrir le projet](projets/feel.md)
+[Explore the project](projets/feel.md)
 
 ---
 
 ### [OOTI](projets/ooti.md)
 
-[![Présentation portfolio — OOTI](assets/projets/ooti/ooti-portfolio.png)](projets/ooti.md)
+[![Portfolio presentation — OOTI](assets/projets/ooti/ooti-portfolio.png)](projets/ooti.md)
 
-Refonte des applications iOS et Android d’OOTI, ERP pour cabinets d’architecture. Parcours projets, saisie des temps, dépenses et validations en React Native.
+Rebuild of OOTI's iOS and Android apps, an ERP for architecture firms. Project workflows, time entry, expenses and approvals in React Native.
 
-**Compétences :** React Native · TypeScript · Redux/Saga · API REST · CI/CD mobile.
+**Skills:** React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD.
 
-[Découvrir le projet](projets/ooti.md)
+[Explore the project](projets/ooti.md)
 
 ---
 
 ### [Sauv'Life](projets/sauvlife.md)
 
-[![Présentation portfolio — Sauv'Life](assets/projets/sauvlife/sauvlife-portfolio.png)](projets/sauvlife.md)
+[![Portfolio presentation — Sauv'Life](assets/projets/sauvlife/sauvlife-portfolio.png)](projets/sauvlife.md)
 
-Mission de refonte mobile Android/iOS de Sauv’Life, application de citoyens-sauveteurs alertés par les SAMU. Géolocalisation, navigation et réseau dégradé.
+Android/iOS mobile rebuild engagement for Sauv’Life, an app for volunteer responders alerted by French emergency medical services (SAMU). Geolocation, navigation and degraded networks.
 
-**Compétences :** React Native · TypeScript · géolocalisation · WebRTC · fonctionnement en réseau dégradé.
+**Skills:** React Native · TypeScript · geolocation · WebRTC · operation on degraded networks.
 
-[Découvrir le projet](projets/sauvlife.md)
+[Explore the project](projets/sauvlife.md)
 
 ---
 
 ### [GameTime](projets/gametime.md)
 
-[![Présentation portfolio — GameTime](assets/projets/gametime/gametime-portfolio.png)](projets/gametime.md)
+[![Portfolio presentation — GameTime](assets/projets/gametime/gametime-portfolio.png)](projets/gametime.md)
 
-Application Android de gestion du temps pour jeux de plateau, avec synchronisation Bluetooth et reprise de partie. Livrée et diffusée dans un cercle privé, hors stores.
+Android time-management app for board games, with Bluetooth synchronisation and game recovery. Delivered and distributed within a private circle, outside the app stores.
 
-**Compétences :** Kotlin · Android · Bluetooth · MVVM · Room.
+**Skills:** Kotlin · Android · Bluetooth · MVVM · Room.
 
-[Découvrir le projet](projets/gametime.md)
+[Explore the project](projets/gametime.md)
 
 ---
 
 ### [Hoop Hook](projets/hoop-hook.md)
 
-[![Présentation portfolio — Hoop Hook](assets/projets/hoop-hook/hoop-hook-portfolio.png)](projets/hoop-hook.md)
+[![Portfolio presentation — Hoop Hook](assets/projets/hoop-hook/hoop-hook-portfolio.png)](projets/hoop-hook.md)
 
-Application Android de basket connecté livrée au client. Connexion Bluetooth au capteur, suivi de son état et plusieurs modes de jeu.
+Connected basketball Android app delivered to the client. Bluetooth connection to the sensor, state monitoring and several game modes.
 
-**Compétences :** Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase.
+**Skills:** Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase.
 
-[Découvrir le projet](projets/hoop-hook.md)
+[Explore the project](projets/hoop-hook.md)
 
 ---
 
 ### [Application Parc Astérix](projets/parc-asterix.md)
 
-[![Présentation portfolio — Application Parc Astérix](assets/projets/parc-asterix/parc-asterix-portfolio.png)](projets/parc-asterix.md)
+[![Portfolio presentation — Application Parc Astérix](assets/projets/parc-asterix/parc-asterix-portfolio.png)](projets/parc-asterix.md)
 
-Maintenance et évolution de l’application officielle iOS et Android du Parc Astérix : carte, recherche, attractions et restauration, en React Native.
+Maintenance and development of the official Parc Astérix iOS and Android app: map, search, attractions and food services, in React Native.
 
-**Compétences :** React Native · TypeScript · GraphQL · cartographie mobile · Firebase.
+**Skills:** React Native · TypeScript · GraphQL · mobile mapping · Firebase.
 
-[Découvrir le projet](projets/parc-asterix.md)
+[Explore the project](projets/parc-asterix.md)
 
 ---
 
 ### [OOPET Love](projets/oopet-love.md)
 
-[![Présentation portfolio — OOPET Love](assets/projets/oopet-love/oopet-love-portfolio.png)](projets/oopet-love.md)
+[![Portfolio presentation — OOPET Love](assets/projets/oopet-love/oopet-love-portfolio.png)](projets/oopet-love.md)
 
-Application Android sociale pour les propriétaires d’animaux : profils, messagerie et partage de photos et vidéos, sur un socle Kotlin commun avec OOPET Lost.
+Social Android app for pet owners: profiles, messaging, and photo and video sharing, based on a Kotlin foundation shared with OOPET Lost.
 
-**Compétences :** Kotlin · Android Jetpack · messagerie mobile · gestion de médias · Firebase.
+**Skills:** Kotlin · Android Jetpack · mobile messaging · media management · Firebase.
 
-[Découvrir le projet](projets/oopet-love.md)
+[Explore the project](projets/oopet-love.md)
 
 ---
 
 ### [Laundrapp](projets/laundrapp.md)
 
-[![Présentation portfolio — Laundrapp](assets/projets/laundrapp/laundrapp-portfolio.png)](projets/laundrapp.md)
+[![Portfolio presentation — Laundrapp](assets/projets/laundrapp/laundrapp-portfolio.png)](projets/laundrapp.md)
 
-Applications Android de blanchisserie à la demande : maintenance de l’app client et création de l’app livreurs, avec tournées et suivi de position.
+On-demand laundry Android apps: maintenance of the customer app and creation of the courier app, with routes and location tracking.
 
-**Compétences :** Android · Java · Google Maps · provisioning NFC · CI/CD mobile.
+**Skills:** Android · Java · Google Maps · NFC provisioning · mobile CI/CD.
 
-[Découvrir le projet](projets/laundrapp.md)
+[Explore the project](projets/laundrapp.md)
 
 ---
 
 ### [Olfaplay](projets/olfaplay.md)
 
-[![Présentation portfolio — Olfaplay](assets/projets/olfaplay/olfaplay-portfolio.png)](projets/olfaplay.md)
+[![Portfolio presentation — Olfaplay](assets/projets/olfaplay/olfaplay-portfolio.png)](projets/olfaplay.md)
 
-Contribution aux applications mobiles d’Olfaplay, plateforme audio de Guerlain : enregistrement de récits, streaming et modération. Intervention via Big Boss Studio.
+Contribution to the mobile apps for Olfaplay, Guerlain's audio platform: story recording, streaming and moderation. Work through Big Boss Studio.
 
-**Compétences :** développement mobile · iOS · Android · enregistrement audio · streaming audio.
+**Skills:** mobile development · iOS · Android · audio recording · audio streaming.
 
-[Découvrir le projet](projets/olfaplay.md)
+[Explore the project](projets/olfaplay.md)
 
 ---
 
 ### [TSF Jazz](projets/tsf-jazz.md)
 
-[![Présentation portfolio — TSF Jazz](assets/projets/tsf-jazz/tsf-jazz-portfolio.png)](projets/tsf-jazz.md)
+[![Portfolio presentation — TSF Jazz](assets/projets/tsf-jazz/tsf-jazz-portfolio.png)](projets/tsf-jazz.md)
 
-Développement mobile React Native pour l’application TSF Jazz : radio en direct, podcasts, flux thématiques et contenus éditoriaux sur iOS et Android.
+React Native mobile development for the TSF Jazz app: live radio, podcasts, themed streams and editorial content on iOS and Android.
 
-**Compétences :** React Native · iOS · Android · streaming audio · lecteur média.
+**Skills:** React Native · iOS · Android · audio streaming · media player.
 
-[Découvrir le projet](projets/tsf-jazz.md)
+[Explore the project](projets/tsf-jazz.md)
 
 ---
 
 ### [ECNAudio](projets/ecnaudio.md)
 
-[![Présentation portfolio — ECNAudio](assets/projets/ecnaudio/ecnaudio-portfolio.png)](projets/ecnaudio.md)
+[![Portfolio presentation — ECNAudio](assets/projets/ecnaudio/ecnaudio-portfolio.png)](projets/ecnaudio.md)
 
-ECNAudio préparait les étudiants en médecine aux Épreuves Classantes Nationales. J’ai développé l’application React Native : cours audio, fiches téléchargeables et écoute hors connexion.
+ECNAudio prepared medical students for the French national ranking examinations. I developed the React Native app: audio lessons, downloadable notes and offline listening.
 
-**Compétences :** React Native · développement mobile · lecture audio · téléchargement hors connexion · lecture en arrière-plan.
+**Skills:** React Native · mobile development · audio playback · offline downloading · background playback.
 
-[Découvrir le projet](projets/ecnaudio.md)
+[Explore the project](projets/ecnaudio.md)
 
 ---
 
 ### [Samsung Watch Retail](projets/samsung-watch-retail.md)
 
-[![Présentation portfolio — Samsung Watch Retail](assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)](projets/samsung-watch-retail.md)
+[![Portfolio presentation — Samsung Watch Retail](assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio.png)](projets/samsung-watch-retail.md)
 
-Application Android de démonstration Galaxy Watch sur borne en magasin, avec mode kiosque et remise à zéro entre visiteurs. Projet réalisé en sous-traitance.
+Galaxy Watch Android demonstration app on an in-store kiosk, with kiosk mode and reset between visitors. Project carried out as subcontracting work.
 
-**Compétences :** Kotlin · Android · mode kiosque · réinitialisation de session · intégration sur borne.
+**Skills:** Kotlin · Android · kiosk mode · session reset · kiosk integration.
 
-[Découvrir le projet](projets/samsung-watch-retail.md)
+[Explore the project](projets/samsung-watch-retail.md)
 
 ---
 
 ### [AXA Drive](projets/axa-drive.md)
 
-Responsabilité de l’application Android native AXA Drive chez Big Boss Studio, autour des trajets, des alertes météo et trafic et du suivi de conduite.
+Responsibility for the native Android AXA Drive app at Big Boss Studio, covering journeys, weather and traffic alerts, and driving monitoring.
 
-**Compétences :** Android natif et responsabilité de l’application.
+**Skills:** native Android and responsibility for the app.
 
-[Découvrir le projet](projets/axa-drive.md)
+[Explore the project](projets/axa-drive.md)
 
 ---
 
 ### [Nissan Qashqai](projets/nissan-qashqai.md)
 
-Développement complet en Java d’une application Android sur tablette pour présenter le Nissan Qashqai, chez Big Boss Studio.
+Complete development in Java of an Android tablet app presenting the Nissan Qashqai, at Big Boss Studio.
 
-**Compétences :** Java · Android · tablette · médias interactifs · réalité augmentée.
+**Skills:** Java · Android · tablet · interactive media · augmented reality.
 
-[Découvrir le projet](projets/nissan-qashqai.md)
+[Explore the project](projets/nissan-qashqai.md)
 
 ---
 
 ### [Anaca3 - Scan minceur](projets/anaca3.md)
 
-Maintenance de l’application mobile Anaca3 chez Big Boss Studio. Le produit permettait de scanner un aliment et de consulter un score et des alternatives.
+Maintenance of the Anaca3 mobile app at Big Boss Studio. The product let users scan a food item and view a score and alternatives.
 
-**Compétences :** maintenance d’application mobile.
+**Skills:** mobile app maintenance.
 
-[Découvrir le projet](projets/anaca3.md)
+[Explore the project](projets/anaca3.md)
 
 ---
 
 ### [Kréa](projets/krea.md)
 
-Développement principal de l’éditeur de bureau C#/.NET Kréa et de son moteur de génération Lua pour des projets mobiles Corona SDK.
+Lead development of the C#/.NET Kréa desktop editor and its Lua generation engine for Corona SDK mobile projects.
 
-**Compétences :** C#/.NET · WPF · Lua · génération de code · Corona SDK.
+**Skills:** C#/.NET · WPF · Lua · code generation · Corona SDK.
 
-[Découvrir le projet](projets/krea.md)
+[Explore the project](projets/krea.md)
 
 ---
 

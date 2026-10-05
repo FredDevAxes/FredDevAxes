@@ -1,30 +1,30 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # OOTI
 
-OOTI est un ERP destiné aux cabinets d’architecture. Son application mobile accompagne les tâches qui se font aussi hors du bureau : suivre les projets, saisir les temps, enregistrer les dépenses et leurs justificatifs, consulter les factures ou traiter des validations. Ces données alimentent ensuite la gestion et la rentabilité des projets. En 2026, l’éditeur indiquait que le produit était utilisé par près d’un millier de cabinets d’architecture.
+OOTI is an ERP for architecture firms. Its mobile app supports tasks also performed away from the office: tracking projects, recording time, entering expenses and supporting documents, reviewing invoices or handling approvals. These data then feed project management and profitability. In 2026, the publisher reported that the product was used by nearly a thousand architecture firms.
 
-Je suis intervenu comme Développeur Mobile Senior de juin 2022 à janvier 2023 pour reprendre et refondre les applications iOS et Android. J’ai posé l’architecture React Native et TypeScript, la navigation et les composants, puis développé les parcours projets, temps, dépenses, factures et validations reliés à une API REST. L’état métier était persisté localement et synchronisé avec cette API. J’ai également travaillé sur l’authentification, les permissions, l’ajout de justificatifs et les chaînes CI/CD avec Fastlane et Bitrise pour les livraisons mobiles.
+I worked as a Senior Mobile Developer from June 2022 to January 2023 to take over and rebuild the iOS and Android apps. I established the React Native and TypeScript architecture, navigation and components, then developed project, time, expense, invoice and approval workflows connected to a REST API. Business state was persisted locally and synchronised with that API. I also worked on authentication, permissions, adding supporting documents and CI/CD pipelines with Fastlane and Bitrise for mobile deliveries.
 
-## Compétences
+## Skills
 
-**Compétences :** React Native · TypeScript · Redux/Saga · API REST · CI/CD mobile.
+**Skills:** React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD.
 
-**Période :** juin 2022 – janvier 2023.
+**Period:** June 2022 – January 2023.
 
 ## Portfolio
 
-![Présentation portfolio — OOTI](../assets/projets/ooti/ooti-portfolio.png)
+![Portfolio presentation — OOTI](../assets/projets/ooti/ooti-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/ooti/ooti-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/ooti/ooti-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — OOTI](../assets/projets/ooti/ooti-gallery.png)
+![Gallery — OOTI](../assets/projets/ooti/ooti-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

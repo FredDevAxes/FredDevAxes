@@ -1,30 +1,30 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Sauv'Life
 
-Sauv’Life est une application de citoyens-sauveteurs mobilisés à la demande des SAMU. Lorsqu’une intervention est déclenchée, le parcours mobile permet de recevoir la demande, de se situer, de rejoindre le lieu concerné et de disposer d’informations utiles pendant le déplacement. L’application propose aussi la localisation d’un défibrillateur et un parcours de fin d’intervention. Elle a atteint des centaines de milliers de téléchargements sur Google Play.
+Sauv’Life is an app for volunteer responders mobilised at the request of French emergency medical services (SAMU). When a response is triggered, the mobile journey lets them receive the request, locate themselves, reach the relevant site and access useful information while travelling. The app also provides defibrillator location and an end-of-response journey. It has reached hundreds of thousands of downloads on Google Play.
 
-De février 2022 à janvier 2023, je suis intervenu en sous-traitance pour Big Boss Studio sur la refonte Android et iOS. J’ai travaillé sur la géolocalisation, la navigation en temps réel, les échanges via WebRTC et le fonctionnement en réseau dégradé.
+From February 2022 to January 2023, I worked as a subcontractor for Big Boss Studio on the Android and iOS rebuild. I worked on geolocation, real-time navigation, communication through WebRTC and operation on degraded networks.
 
-## Compétences
+## Skills
 
-**Compétences :** React Native · TypeScript · géolocalisation · WebRTC · fonctionnement en réseau dégradé.
+**Skills:** React Native · TypeScript · geolocation · WebRTC · operation on degraded networks.
 
-**Période :** février 2022 – janvier 2023.
+**Period:** February 2022 – January 2023.
 
 ## Portfolio
 
-![Présentation portfolio — Sauv'Life](../assets/projets/sauvlife/sauvlife-portfolio.png)
+![Portfolio presentation — Sauv'Life](../assets/projets/sauvlife/sauvlife-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/sauvlife/sauvlife-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/sauvlife/sauvlife-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — Sauv'Life](../assets/projets/sauvlife/sauvlife-gallery.png)
+![Gallery — Sauv'Life](../assets/projets/sauvlife/sauvlife-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

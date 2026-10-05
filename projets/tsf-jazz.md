@@ -1,28 +1,28 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # TSF Jazz
 
-L’application mobile de TSF Jazz réunit la radio en direct et des contenus à écouter à la demande. Elle permet de passer du flux live aux podcasts et aux flux thématiques, tout en donnant accès aux programmes et aux contenus éditoriaux de la station. Son lecteur reste accessible pendant la navigation dans l’application, sur iOS comme sur Android.
+The TSF Jazz mobile app brings together live radio and on-demand listening content. It allows listeners to move from the live stream to podcasts and themed streams, while providing access to the station's programmes and editorial content. Its player remains accessible while navigating the app, on both iOS and Android.
 
-Chez Big Boss Studio, j’ai été le développeur mobile React Native en charge de ce chantier applicatif. J’ai travaillé sur les parcours du lecteur, l’intégration du streaming, les podcasts et les flux thématiques, en lien avec les équipes produit et design.
+At Big Boss Studio, I was the React Native mobile developer responsible for this app development work. I worked on player journeys, streaming integration, podcasts and themed streams, in collaboration with the product and design teams.
 
-## Compétences
+## Skills
 
-**Compétences :** React Native · iOS · Android · streaming audio · lecteur média.
+**Skills:** React Native · iOS · Android · audio streaming · media player.
 
 ## Portfolio
 
-![Présentation portfolio — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-portfolio.png)
+![Portfolio presentation — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-portfolio.png)
 
-[Ouvrir le portfolio (PDF)](../assets/projets/tsf-jazz/tsf-jazz-portfolio.pdf)
+[Open the portfolio (PDF)](../assets/projets/tsf-jazz/tsf-jazz-portfolio.pdf)
 
-## Galerie
+## Gallery
 
-![Galerie — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-gallery.png)
+![Gallery — TSF Jazz](../assets/projets/tsf-jazz/tsf-jazz-gallery.png)
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

@@ -1,18 +1,18 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Anaca3 - Scan minceur
 
-Anaca3 - Scan minceur était une application mobile de consultation alimentaire. L’utilisateur scannait le code-barres d’un produit pour afficher un score nutritionnel et des alternatives. Le parcours réunissait ainsi la lecture du produit et la consultation d’informations pour aider à faire un choix alimentaire.
+Anaca3 - Scan minceur was a mobile app for checking food products. Users scanned a product's barcode to display a nutrition score and alternatives. The journey brought together product scanning and access to information to help them make a food choice.
 
-Chez Big Boss Studio, j’ai assuré la maintenance de cette application existante.
+At Big Boss Studio, I maintained this existing app.
 
-## Compétences
+## Skills
 
-**Compétences :** maintenance d’application mobile.
+**Skills:** mobile app maintenance.
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)

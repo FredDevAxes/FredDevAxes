@@ -1,20 +1,20 @@
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="Logo DevAxes" width="64">
+<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
 </picture>
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
 
 # Kréa
 
-Kréa était un éditeur visuel pour Corona SDK. Il permettait de construire les scènes d’une application ou d’un jeu mobile en organisant calques, formes, textes, images et sprites. L’outil transformait ensuite cette configuration graphique en code Lua destiné au moteur Corona, avec l’objectif de faciliter la création de projets pour iPhone, iPad et Android. La partie bureau et la génération de code formaient donc un même parcours : composer une scène, régler ses éléments, puis produire un projet mobile exploitable. Le support du produit est aujourd’hui terminé.
+Kréa was a visual editor for Corona SDK. It allowed users to build scenes for a mobile app or game by arranging layers, shapes, text, images and sprites. The tool then transformed this graphical configuration into Lua code for the Corona engine, with the aim of simplifying the creation of projects for iPhone, iPad and Android. The desktop application and code generation formed a single journey: compose a scene, configure its elements, then produce a usable mobile project. Product support has now ended.
 
-Chez Native-Software, j’ai été le développeur principal de l’application de bureau en C#/.NET et du moteur de génération Lua. Mon intervention couvrait l’architecture, l’interface, le modèle de données et la transformation des configurations visuelles en code.
+At Native-Software, I was the lead developer of the C#/.NET desktop app and the Lua generation engine. My work covered the architecture, interface, data model and transformation of visual configurations into code.
 
-## Compétences
+## Skills
 
-**Compétences :** C#/.NET · WPF · Lua · génération de code · Corona SDK.
+**Skills:** C#/.NET · WPF · Lua · code generation · Corona SDK.
 
-**Période :** juin 2012 – mars 2013.
+**Period:** June 2012 – March 2013.
 
-[← Tous les projets](../README.md)
+[← All projects](../README.md)
