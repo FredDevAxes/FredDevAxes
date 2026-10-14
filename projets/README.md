@@ -2,7 +2,7 @@
 
 Android and iOS applications I have worked on, with my role and the technologies involved.
 
-## Feel
+### Feel
 
 <p><img src="../assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: application screens" width="900"></p>
 
@@ -15,7 +15,7 @@ Feel is a mental health app for Android and iOS. As CTO / Full Stack Developer, 
 
 ---
 
-## OOTI
+### OOTI
 
 <p><img src="../assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: application screens" width="900"></p>
 
@@ -28,7 +28,7 @@ I rebuilt OOTI's mobile apps for architecture firms, covering projects, time ent
 
 ---
 
-## Sauv'Life
+### Sauv'Life
 
 <p><img src="../assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv&#x27;Life: application screens" width="900"></p>
 
@@ -41,7 +41,7 @@ Android/iOS mobile rebuild engagement for Sauv’Life, an app for volunteer resp
 
 ---
 
-## Application Parc Astérix
+### Application Parc Astérix
 
 <p><img src="../assets/projets/parc-asterix/parc-asterix-first-page-1af21adc9937.webp" alt="Application Parc Astérix: application screens" width="900"></p>
 
@@ -54,7 +54,7 @@ Maintenance and development of the official Parc Astérix iOS and Android app: m
 
 ---
 
-## GameTime
+### GameTime
 
 <p><img src="../assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: application screens" width="900"></p>
 
@@ -67,7 +67,7 @@ Android time-management app for board games, with Bluetooth synchronisation and 
 
 ---
 
-## Hoop Hook
+### Hoop Hook
 
 <p><img src="../assets/projets/hoop-hook/hoop-hook-first-page-06cba474add3.webp" alt="Hoop Hook: application screens" width="900"></p>
 
@@ -80,7 +80,7 @@ Connected basketball Android app delivered to the client. Bluetooth connection t
 
 ---
 
-## OOPET Love
+### OOPET Love
 
 <p><img src="../assets/projets/oopet-love/oopet-love-first-page-c2dbfb9d9df7.webp" alt="OOPET Love: application screens" width="900"></p>
 
@@ -93,7 +93,7 @@ Social Android app for pet owners: profiles, messaging, and photo and video shar
 
 ---
 
-## Samsung Watch Retail
+### Samsung Watch Retail
 
 <p><img src="../assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: application screens" width="900"></p>
 
@@ -106,7 +106,7 @@ Galaxy Watch Android demonstration app on an in-store kiosk, with kiosk mode and
 
 ---
 
-## TSF Jazz
+### TSF Jazz
 
 <p><img src="../assets/projets/tsf-jazz/tsf-jazz-first-page-90630dd942e0.webp" alt="TSF Jazz: application screens" width="900"></p>
 
@@ -119,7 +119,7 @@ React Native mobile development for the TSF Jazz app: live radio, podcasts, them
 
 ---
 
-## ECNAudio
+### ECNAudio
 
 <p><img src="../assets/projets/ecnaudio/ecnaudio-first-page-7387bc8fd9a1.webp" alt="ECNAudio: application screens" width="900"></p>
 
@@ -132,7 +132,7 @@ ECNAudio prepared medical students for the French national ranking examinations.
 
 ---
 
-## Olfaplay
+### Olfaplay
 
 <p><img src="../assets/projets/olfaplay/olfaplay-first-page-f61feae0ca0b.webp" alt="Olfaplay: application screens" width="900"></p>
 
@@ -145,7 +145,7 @@ Contribution to the mobile apps for Olfaplay, Guerlain's audio platform: story r
 
 ---
 
-## Laundrapp
+### Laundrapp
 
 <p><img src="../assets/projets/laundrapp/laundrapp-first-page-b41b0655ad84.webp" alt="Laundrapp: application screens" width="900"></p>
 
@@ -155,9 +155,12 @@ On-demand laundry Android apps: maintenance of the customer app and creation of 
 
 <p><a href="laundrapp.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Laundrapp project" width="168" height="44"></a></p>
 
-## Earlier projects and mobile tooling
+
+---
 
 ### Anaca3 - Scan minceur
+
+<p><img src="../assets/projets/anaca3/scan-poster-07eef2f1f0f6.webp" alt="Historical Anaca3 poster showing barcode scanning." width="260"> <img src="../assets/projets/anaca3/score-poster-68cf6efe7be2.webp" alt="Historical Anaca3 poster showing a detailed food score." width="260"> <img src="../assets/projets/anaca3/alternatives-poster-b85214dce621.webp" alt="Historical Anaca3 poster showing food alternatives." width="260"></p>
 
 Maintenance of the Anaca3 mobile app at Big Boss Studio. The product let users scan a food item and view a score and alternatives.
 
@@ -165,19 +168,7 @@ Maintenance of the Anaca3 mobile app at Big Boss Studio. The product let users s
 
 <p><a href="anaca3.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Anaca3 - Scan minceur project" width="168" height="44"></a></p>
 
-
----
-
-### AXA Drive
-
-Responsibility for the native Android AXA Drive app at Big Boss Studio, covering journeys, weather and traffic alerts, and driving monitoring.
-
-`native Android and responsibility for the app`
-
-<p><a href="axa-drive.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View AXA Drive project" width="168" height="44"></a></p>
-
-
----
+## Earlier projects and mobile tooling
 
 ### Kréa
 
@@ -186,17 +177,6 @@ Lead development of the C#/.NET Kréa desktop editor and its Lua generation engi
 `C#/.NET` `WPF` `Lua` `code generation` `Corona SDK`
 
 <p><a href="krea.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Kréa project" width="168" height="44"></a></p>
-
-
----
-
-### Nissan Qashqai
-
-Complete development in Java of an Android tablet app presenting the Nissan Qashqai, at Big Boss Studio.
-
-`Java` `Android` `tablet` `interactive media` `augmented reality`
-
-<p><a href="nissan-qashqai.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Nissan Qashqai project" width="168" height="44"></a></p>
 
 ---
 
