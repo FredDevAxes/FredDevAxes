@@ -8,8 +8,8 @@ At Big Boss Studio, I maintained this existing app.
 
 ## Stack
 
-mobile app maintenance
+`mobile app maintenance`
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

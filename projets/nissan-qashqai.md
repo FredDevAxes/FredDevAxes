@@ -8,8 +8,8 @@ At Big Boss Studio, I developed the entire Android app in Java. My work covered 
 
 ## Stack
 
-Java · Android · tablet · interactive media · augmented reality
+`Java` `Android` `tablet` `interactive media` `augmented reality`
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

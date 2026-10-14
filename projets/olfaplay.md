@@ -10,7 +10,7 @@ From March to November 2018, I contributed to the iOS and Android mobile apps at
 
 ## Stack
 
-mobile development · iOS · Android · audio recording · audio streaming
+`mobile development` `iOS` `Android` `audio recording` `audio streaming`
 
 **Period:** March 2018 – November 2018.
 
@@ -18,4 +18,4 @@ mobile development · iOS · Android · audio recording · audio streaming
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

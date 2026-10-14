@@ -10,7 +10,7 @@ I worked on this app at Big Boss Studio in a subcontracting context. My work con
 
 ## Stack
 
-Kotlin · Android · kiosk mode · session reset · kiosk integration
+`Kotlin` `Android` `kiosk mode` `session reset` `kiosk integration`
 
 ## Screenshots
 
@@ -20,4 +20,4 @@ Kotlin · Android · kiosk mode · session reset · kiosk integration
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

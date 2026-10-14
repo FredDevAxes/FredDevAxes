@@ -8,10 +8,10 @@ At Native-Software, I was the lead developer of the C#/.NET desktop app and the 
 
 ## Stack
 
-C#/.NET · WPF · Lua · code generation · Corona SDK
+`C#/.NET` `WPF` `Lua` `code generation` `Corona SDK`
 
 **Period:** June 2012 – March 2013.
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

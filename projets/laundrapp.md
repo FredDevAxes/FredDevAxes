@@ -10,7 +10,7 @@ I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Androi
 
 ## Stack
 
-Android · Java · Google Maps · NFC provisioning · mobile CI/CD
+`Android` `Java` `Google Maps` `NFC provisioning` `mobile CI/CD`
 
 **Period:** March 2015 – March 2016.
 
@@ -22,4 +22,4 @@ Android · Java · Google Maps · NFC provisioning · mobile CI/CD
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

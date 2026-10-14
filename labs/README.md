@@ -10,7 +10,7 @@ Small projects where I explore a specific technical question. Each lab has its o
 
 A request is saved, but its response is lost. This lab shows how a retry can recover it without creating a second request.
 
-NestJS · PostgreSQL · React · TypeScript
+`NestJS` `PostgreSQL` `React` `TypeScript`
 
 <p><a href="idempotent-requests-lab.md"><img src="../assets/ui/button-lab-2dbe625ef011.svg" alt="View Idempotent requests lab" width="140" height="44"></a></p>
 
@@ -25,7 +25,7 @@ NestJS · PostgreSQL · React · TypeScript
 
 The same catalogue in Flutter, React Native, Jetpack Compose and SwiftUI, with and without an animated transition.
 
-Flutter · React Native · Kotlin / Compose · Swift / SwiftUI
+`Flutter` `React Native` `Kotlin / Compose` `Swift / SwiftUI`
 
 <p><a href="mobile-stack-benchmark.md"><img src="../assets/ui/button-lab-2dbe625ef011.svg" alt="View Mobile stack benchmark lab" width="140" height="44"></a></p>
 
@@ -33,4 +33,4 @@ Flutter · React Native · Kotlin / Compose · Swift / SwiftUI
 
 <p><a href="../README.md"><img src="../assets/ui/button-profile-41db3f0638fc.svg" alt="Back to profile" width="196" height="44"></a></p>
 
-<p><a href="../projets/README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="../projets/README.md">All mobile projects</a></p>

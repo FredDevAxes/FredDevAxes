@@ -12,7 +12,7 @@ The mobile app used React Native and TypeScript, with native layers in Kotlin an
 
 ## Stack
 
-React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend architecture · technical leadership · deployments
+`React Native` `TypeScript` `Ruby on Rails` `PostgreSQL` `mobile and backend architecture` `technical leadership` `deployments`
 
 **Period:** April 2023 – September 2026.
 
@@ -24,4 +24,4 @@ React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend 
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

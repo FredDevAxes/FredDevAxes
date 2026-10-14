@@ -10,7 +10,7 @@ From February 2022 to January 2023, I worked as a subcontractor for Big Boss Stu
 
 ## Stack
 
-React Native · TypeScript · geolocation · WebRTC · operation on degraded networks
+`React Native` `TypeScript` `geolocation` `WebRTC` `operation on degraded networks`
 
 **Period:** February 2022 – January 2023.
 
@@ -22,4 +22,4 @@ React Native · TypeScript · geolocation · WebRTC · operation on degraded net
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

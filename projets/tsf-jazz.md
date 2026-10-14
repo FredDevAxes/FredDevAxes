@@ -10,7 +10,7 @@ At Big Boss Studio, I was the React Native mobile developer responsible for this
 
 ## Stack
 
-React Native · iOS · Android · audio streaming · media player
+`React Native` `iOS` `Android` `audio streaming` `media player`
 
 ## Screenshots
 
@@ -20,4 +20,4 @@ React Native · iOS · Android · audio streaming · media player
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

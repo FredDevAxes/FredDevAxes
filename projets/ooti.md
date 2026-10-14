@@ -10,7 +10,7 @@ I worked as a Senior Mobile Developer from June 2022 to January 2023 to take ove
 
 ## Stack
 
-React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD
+`React Native` `TypeScript` `Redux/Saga` `REST API` `mobile CI/CD`
 
 **Period:** June 2022 – January 2023.
 
@@ -22,4 +22,4 @@ React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

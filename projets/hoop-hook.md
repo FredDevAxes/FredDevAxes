@@ -10,7 +10,7 @@ I contributed to Android development in Kotlin. I worked on the Bluetooth servic
 
 ## Stack
 
-Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase
+`Kotlin` `Android` `Bluetooth Low Energy` `Hilt` `Firebase`
 
 ## Screenshots
 
@@ -20,4 +20,4 @@ Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

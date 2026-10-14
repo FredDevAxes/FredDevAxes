@@ -10,10 +10,10 @@ I worked on the Android app in Kotlin, particularly messaging, photo and video m
 
 ## Stack
 
-Kotlin · Android Jetpack · mobile messaging · media management · Firebase
+`Kotlin` `Android Jetpack` `mobile messaging` `media management` `Firebase`
 
 <p><a href="../assets/projets/oopet-love/oopet-love-portfolio-894cf3690848.pdf"><img src="../assets/ui/button-pdf-cb21542f80c2.svg" alt="OOPET Love portfolio PDF" width="186" height="44"></a></p>
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

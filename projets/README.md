@@ -8,7 +8,7 @@ Android and iOS applications I have worked on, with my role and the technologies
 
 Feel is a mental health app for Android and iOS. As CTO / Full Stack Developer, I led the technical team, rebuilt the mobile apps and maintained the Ruby on Rails backend.
 
-React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend architecture · technical leadership · deployments
+`React Native` `TypeScript` `Ruby on Rails` `PostgreSQL` `mobile and backend architecture` `technical leadership` `deployments`
 
 <p><a href="feel.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Feel project" width="168" height="44"></a></p>
 
@@ -21,7 +21,7 @@ React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend 
 
 I rebuilt OOTI's mobile apps for architecture firms, covering projects, time entries, expenses and approvals.
 
-React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD
+`React Native` `TypeScript` `Redux/Saga` `REST API` `mobile CI/CD`
 
 <p><a href="ooti.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View OOTI project" width="168" height="44"></a></p>
 
@@ -34,7 +34,7 @@ React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD
 
 Android/iOS mobile rebuild engagement for Sauv’Life, an app for volunteer responders alerted by French emergency medical services (SAMU). Geolocation, navigation and degraded networks.
 
-React Native · TypeScript · geolocation · WebRTC · operation on degraded networks
+`React Native` `TypeScript` `geolocation` `WebRTC` `operation on degraded networks`
 
 <p><a href="sauvlife.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Sauv&#x27;Life project" width="168" height="44"></a></p>
 
@@ -47,7 +47,7 @@ React Native · TypeScript · geolocation · WebRTC · operation on degraded net
 
 Maintenance and development of the official Parc Astérix iOS and Android app: map, search, attractions and food services, in React Native.
 
-React Native · TypeScript · GraphQL · mobile mapping · Firebase
+`React Native` `TypeScript` `GraphQL` `mobile mapping` `Firebase`
 
 <p><a href="parc-asterix.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Application Parc Astérix project" width="168" height="44"></a></p>
 
@@ -60,7 +60,7 @@ React Native · TypeScript · GraphQL · mobile mapping · Firebase
 
 Android time-management app for board games, with Bluetooth synchronisation and game recovery. Delivered and distributed within a private circle, outside the app stores.
 
-Kotlin · Android · Bluetooth · MVVM · Room
+`Kotlin` `Android` `Bluetooth` `MVVM` `Room`
 
 <p><a href="gametime.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View GameTime project" width="168" height="44"></a></p>
 
@@ -73,7 +73,7 @@ Kotlin · Android · Bluetooth · MVVM · Room
 
 Connected basketball Android app delivered to the client. Bluetooth connection to the sensor, state monitoring and several game modes.
 
-Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase
+`Kotlin` `Android` `Bluetooth Low Energy` `Hilt` `Firebase`
 
 <p><a href="hoop-hook.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Hoop Hook project" width="168" height="44"></a></p>
 
@@ -86,7 +86,7 @@ Kotlin · Android · Bluetooth Low Energy · Hilt · Firebase
 
 Social Android app for pet owners: profiles, messaging, and photo and video sharing, based on a Kotlin foundation shared with OOPET Lost.
 
-Kotlin · Android Jetpack · mobile messaging · media management · Firebase
+`Kotlin` `Android Jetpack` `mobile messaging` `media management` `Firebase`
 
 <p><a href="oopet-love.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View OOPET Love project" width="168" height="44"></a></p>
 
@@ -99,7 +99,7 @@ Kotlin · Android Jetpack · mobile messaging · media management · Firebase
 
 Galaxy Watch Android demonstration app on an in-store kiosk, with kiosk mode and reset between visitors. Project carried out as subcontracting work.
 
-Kotlin · Android · kiosk mode · session reset · kiosk integration
+`Kotlin` `Android` `kiosk mode` `session reset` `kiosk integration`
 
 <p><a href="samsung-watch-retail.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Samsung Watch Retail project" width="168" height="44"></a></p>
 
@@ -112,7 +112,7 @@ Kotlin · Android · kiosk mode · session reset · kiosk integration
 
 React Native mobile development for the TSF Jazz app: live radio, podcasts, themed streams and editorial content on iOS and Android.
 
-React Native · iOS · Android · audio streaming · media player
+`React Native` `iOS` `Android` `audio streaming` `media player`
 
 <p><a href="tsf-jazz.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View TSF Jazz project" width="168" height="44"></a></p>
 
@@ -125,7 +125,7 @@ React Native · iOS · Android · audio streaming · media player
 
 ECNAudio prepared medical students for the French national ranking examinations. I developed the React Native app: audio lessons, downloadable notes and offline listening.
 
-React Native · mobile development · audio playback · offline downloading · background playback
+`React Native` `mobile development` `audio playback` `offline downloading` `background playback`
 
 <p><a href="ecnaudio.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View ECNAudio project" width="168" height="44"></a></p>
 
@@ -138,7 +138,7 @@ React Native · mobile development · audio playback · offline downloading · b
 
 Contribution to the mobile apps for Olfaplay, Guerlain's audio platform: story recording, streaming and moderation. Work through Big Boss Studio.
 
-mobile development · iOS · Android · audio recording · audio streaming
+`mobile development` `iOS` `Android` `audio recording` `audio streaming`
 
 <p><a href="olfaplay.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Olfaplay project" width="168" height="44"></a></p>
 
@@ -151,7 +151,7 @@ mobile development · iOS · Android · audio recording · audio streaming
 
 On-demand laundry Android apps: maintenance of the customer app and creation of the courier app, with routes and location tracking.
 
-Android · Java · Google Maps · NFC provisioning · mobile CI/CD
+`Android` `Java` `Google Maps` `NFC provisioning` `mobile CI/CD`
 
 <p><a href="laundrapp.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Laundrapp project" width="168" height="44"></a></p>
 
@@ -161,7 +161,7 @@ Android · Java · Google Maps · NFC provisioning · mobile CI/CD
 
 Maintenance of the Anaca3 mobile app at Big Boss Studio. The product let users scan a food item and view a score and alternatives.
 
-mobile app maintenance
+`mobile app maintenance`
 
 <p><a href="anaca3.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Anaca3 - Scan minceur project" width="168" height="44"></a></p>
 
@@ -172,7 +172,7 @@ mobile app maintenance
 
 Responsibility for the native Android AXA Drive app at Big Boss Studio, covering journeys, weather and traffic alerts, and driving monitoring.
 
-native Android and responsibility for the app
+`native Android and responsibility for the app`
 
 <p><a href="axa-drive.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View AXA Drive project" width="168" height="44"></a></p>
 
@@ -183,7 +183,7 @@ native Android and responsibility for the app
 
 Lead development of the C#/.NET Kréa desktop editor and its Lua generation engine for Corona SDK mobile projects.
 
-C#/.NET · WPF · Lua · code generation · Corona SDK
+`C#/.NET` `WPF` `Lua` `code generation` `Corona SDK`
 
 <p><a href="krea.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Kréa project" width="168" height="44"></a></p>
 
@@ -194,7 +194,7 @@ C#/.NET · WPF · Lua · code generation · Corona SDK
 
 Complete development in Java of an Android tablet app presenting the Nissan Qashqai, at Big Boss Studio.
 
-Java · Android · tablet · interactive media · augmented reality
+`Java` `Android` `tablet` `interactive media` `augmented reality`
 
 <p><a href="nissan-qashqai.md"><img src="../assets/ui/button-project-31c389cc25d7.svg" alt="View Nissan Qashqai project" width="168" height="44"></a></p>
 
@@ -202,4 +202,4 @@ Java · Android · tablet · interactive media · augmented reality
 
 <p><a href="../README.md"><img src="../assets/ui/button-profile-41db3f0638fc.svg" alt="Back to profile" width="196" height="44"></a></p>
 
-<p><a href="../labs/README.md"><img src="../assets/ui/button-labs-185152e591d1.svg" alt="All labs" width="136" height="44"></a></p>
+<p align="center"><a href="../labs/README.md">All labs</a></p>

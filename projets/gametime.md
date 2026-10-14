@@ -10,7 +10,7 @@ I developed the native Android app in Kotlin as part of an engagement from May 2
 
 ## Stack
 
-Kotlin · Android · Bluetooth · MVVM · Room
+`Kotlin` `Android` `Bluetooth` `MVVM` `Room`
 
 **Period:** May 2021 – February 2022.
 
@@ -22,4 +22,4 @@ Kotlin · Android · Bluetooth · MVVM · Room
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

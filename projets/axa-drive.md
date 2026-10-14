@@ -8,8 +8,8 @@ At Big Boss Studio, I was responsible for the native Android app as a whole.
 
 ## Stack
 
-native Android and responsibility for the app
+`native Android and responsibility for the app`
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

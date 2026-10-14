@@ -16,7 +16,7 @@ I build Android and iOS apps with Kotlin and React Native. I also take over exis
 
 Feel is a mental health app for Android and iOS. As CTO / Full Stack Developer, I led the technical team, rebuilt the mobile apps and maintained the Ruby on Rails backend.
 
-React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend architecture · technical leadership · deployments
+`React Native` `TypeScript` `Ruby on Rails` `PostgreSQL` `mobile and backend architecture` `technical leadership` `deployments`
 
 <p><a href="projets/feel.md"><img src="assets/ui/button-project-31c389cc25d7.svg" alt="View Feel project" width="168" height="44"></a></p>
 
@@ -29,11 +29,13 @@ React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend 
 
 I rebuilt OOTI's mobile apps for architecture firms, covering projects, time entries, expenses and approvals.
 
-React Native · TypeScript · Redux/Saga · REST API · mobile CI/CD
+`React Native` `TypeScript` `Redux/Saga` `REST API` `mobile CI/CD`
 
 <p><a href="projets/ooti.md"><img src="assets/ui/button-project-31c389cc25d7.svg" alt="View OOTI project" width="168" height="44"></a></p>
 
-<p><a href="projets/README.md"><img src="assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+---
+
+<p align="center"><a href="projets/README.md">All mobile projects</a></p>
 
 ---
 
@@ -49,7 +51,7 @@ These are personal experiments with public code and instructions to run them loc
 
 A request is saved, but its response is lost. This lab shows how a retry can recover it without creating a second request.
 
-NestJS · PostgreSQL · React · TypeScript
+`NestJS` `PostgreSQL` `React` `TypeScript`
 
 <p><a href="labs/idempotent-requests-lab.md"><img src="assets/ui/button-lab-2dbe625ef011.svg" alt="View Idempotent requests lab" width="140" height="44"></a></p>
 
@@ -64,11 +66,13 @@ NestJS · PostgreSQL · React · TypeScript
 
 The same catalogue in Flutter, React Native, Jetpack Compose and SwiftUI, with and without an animated transition.
 
-Flutter · React Native · Kotlin / Compose · Swift / SwiftUI
+`Flutter` `React Native` `Kotlin / Compose` `Swift / SwiftUI`
 
 <p><a href="labs/mobile-stack-benchmark.md"><img src="assets/ui/button-lab-2dbe625ef011.svg" alt="View Mobile stack benchmark lab" width="140" height="44"></a></p>
 
-<p><a href="labs/README.md"><img src="assets/ui/button-labs-185152e591d1.svg" alt="All labs" width="136" height="44"></a></p>
+---
+
+<p align="center"><a href="labs/README.md">All labs</a></p>
 
 
 ---

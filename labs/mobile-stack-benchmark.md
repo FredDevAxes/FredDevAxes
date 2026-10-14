@@ -14,10 +14,10 @@ The first phase uses Android emulators and iOS simulators. It does not establish
 
 ## Stack
 
-Flutter · React Native · Kotlin / Compose · Swift / SwiftUI
+`Flutter` `React Native` `Kotlin / Compose` `Swift / SwiftUI`
 
 <p><a href="https://github.com/FredDevAxes/mobile-stack-benchmark"><img src="../assets/ui/button-repository-913347d886e7.svg" alt="Open repository" width="210" height="44"></a></p>
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-labs-185152e591d1.svg" alt="All labs" width="136" height="44"></a></p>
+<p align="center"><a href="README.md">All labs</a></p>

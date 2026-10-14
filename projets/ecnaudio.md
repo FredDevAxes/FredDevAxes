@@ -10,7 +10,7 @@ I was the React Native mobile developer responsible for the app, first at Big Bo
 
 ## Stack
 
-React Native · mobile development · audio playback · offline downloading · background playback
+`React Native` `mobile development` `audio playback` `offline downloading` `background playback`
 
 ## Screenshots
 
@@ -20,4 +20,4 @@ React Native · mobile development · audio playback · offline downloading · b
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>

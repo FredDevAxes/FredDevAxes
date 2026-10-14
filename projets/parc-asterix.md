@@ -10,7 +10,7 @@ From September 2021 to March 2022, I worked as a subcontractor for Big Boss Stud
 
 ## Stack
 
-React Native · TypeScript · GraphQL · mobile mapping · Firebase
+`React Native` `TypeScript` `GraphQL` `mobile mapping` `Firebase`
 
 **Period:** September 2021 – March 2022.
 
@@ -22,4 +22,4 @@ React Native · TypeScript · GraphQL · mobile mapping · Firebase
 
 ---
 
-<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
+<p align="center"><a href="README.md">All mobile projects</a></p>
