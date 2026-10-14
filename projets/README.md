@@ -160,7 +160,7 @@ On-demand laundry Android apps: maintenance of the customer app and creation of 
 
 ### Anaca3 - Scan minceur
 
-<p><img src="../assets/projets/anaca3/cover-7913c2582db0.webp" alt="Anaca3 - Scan minceur: application screens" width="900"></p>
+<p><img src="../assets/projets/anaca3/anaca3-three-screens-e6004bbcfa51.svg" alt="Anaca3 - Scan minceur: application screens" width="900"></p>
 
 Maintenance of the Anaca3 mobile app at Big Boss Studio. The product let users scan a food item and view a score and alternatives.
 

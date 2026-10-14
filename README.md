@@ -53,7 +53,7 @@ A request is saved, but its response is lost. This lab shows how a retry can rec
 
 `NestJS` `PostgreSQL` `React` `TypeScript`
 
-<p><a href="labs/idempotent-requests-lab.md"><img src="assets/ui/button-lab-2dbe625ef011.svg" alt="View Idempotent requests lab" width="140" height="44"></a></p>
+<p><a href="https://github.com/FredDevAxes/idempotent-requests-lab"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Idempotent requests repository" width="210" height="44"></a></p>
 
 
 ---
@@ -68,7 +68,7 @@ The same catalogue in Flutter, React Native, Jetpack Compose and SwiftUI, with a
 
 `Flutter` `React Native` `Kotlin / Compose` `Swift / SwiftUI`
 
-<p><a href="labs/mobile-stack-benchmark.md"><img src="assets/ui/button-lab-2dbe625ef011.svg" alt="View Mobile stack benchmark lab" width="140" height="44"></a></p>
+<p><a href="https://github.com/FredDevAxes/mobile-stack-benchmark"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Mobile stack benchmark repository" width="210" height="44"></a></p>
 
 ---
 
