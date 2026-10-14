@@ -4,13 +4,23 @@ Small projects where I explore a specific technical question. Each lab has its o
 
 ## Idempotent requests
 
-<p><img src="../assets/labs/idempotent-requests-lab/guided-repeat-desktop-f98e968e6a2d.png" alt="Guided lab: two sends return one saved request, with separate client and server observations." width="900"></p>
+<p><img src="../assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>
 
-**v0.2.0 · Local prototype**
+**v0.3.1 · Local prototype**
 
 A request is saved, but its response is lost. This lab shows how a retry can recover it without creating a second request.
 
 `NestJS` `PostgreSQL` `React` `TypeScript`
+
+Six guided scenarios compare what the client knows with what PostgreSQL saved: repeated sends, a lost reply, twenty concurrent attempts, a failure before saving, changed content under the same reference, and a separate request. Expand Technical details to inspect real HTTP attempts, saved records and request keys.
+
+The client keeps the same key and content across retries and reloads. While the key is retained, the API returns the recorded result; after explicit purge, reusing it can create another request. This local prototype uses fictional maintenance data. Its guarantee covers the database transaction, with no payments, emails or other external effects.
+
+<p><img src="../assets/labs/idempotent-requests-lab/recovered-reply-88ba24960bba.png" alt="Retry in v0.3.1 recovers the confirmation: two sends, one saved request and no duplicate." width="900"></p>
+
+Retrying the same request recovers its confirmation: two sends, one saved request.
+
+[Visual tour and recording](https://github.com/FredDevAxes/idempotent-requests-lab/blob/main/docs/visual-tour.md) · [Demo protocol](https://github.com/FredDevAxes/idempotent-requests-lab/blob/main/docs/demo.md) · [API contract](https://github.com/FredDevAxes/idempotent-requests-lab/blob/main/docs/contract.md)
 
 <p><a href="https://github.com/FredDevAxes/idempotent-requests-lab"><img src="../assets/ui/button-repository-913347d886e7.svg" alt="Open Idempotent requests repository" width="210" height="44"></a></p>
 

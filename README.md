@@ -45,9 +45,9 @@ These are personal experiments with public code and instructions to run them loc
 
 ### Idempotent requests
 
-<p><img src="assets/labs/idempotent-requests-lab/guided-repeat-desktop-f98e968e6a2d.png" alt="Guided lab: two sends return one saved request, with separate client and server observations." width="900"></p>
+<p><img src="assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>
 
-**v0.2.0 · Local prototype**
+**v0.3.1 · Local prototype**
 
 A request is saved, but its response is lost. This lab shows how a retry can recover it without creating a second request.
 
