@@ -1,24 +1,23 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
-</picture>
-
-[← All projects](../README.md)
-
 # Samsung Watch Retail
 
 Samsung Watch Retail is an Android demonstration app installed on a retail kiosk. It allowed visitors to explore Galaxy Watch customisation options, particularly watch faces and straps. In this context, the app had to remain available for unsupervised public use: it ran in kiosk mode and returned to its initial state between visits, so that each person encountered a fresh demonstration.
 
+<p><img src="../assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: application screens" width="900"></p>
+
+## My work
+
 I worked on this app at Big Boss Studio in a subcontracting context. My work concerned Android development in Kotlin and kiosk-specific constraints, particularly kiosk mode and session reset.
 
-## Skills
+## Stack
 
-**Skills:** Kotlin · Android · kiosk mode · session reset · kiosk integration.
+Kotlin · Android · kiosk mode · session reset · kiosk integration
 
-## Portfolio
+## Screenshots
 
-![Portfolio presentation — Samsung Watch Retail](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-en-b5c7b68cebee.png)
+<p><img src="../assets/projets/samsung-watch-retail/samsung-watch-retail-gallery-f2153db5b73e.png" alt="Samsung Watch Retail: screenshot gallery" width="900"></p>
 
-[Open the portfolio (PDF)](../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-en-548cd5490631.pdf)
+<p><a href="../assets/projets/samsung-watch-retail/samsung-watch-retail-portfolio-f0eb8f22f4a9.pdf"><img src="../assets/ui/button-pdf-cb21542f80c2.svg" alt="Samsung Watch Retail portfolio PDF" width="186" height="44"></a></p>
 
-[← All projects](../README.md)
+---
+
+<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>

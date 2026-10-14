@@ -1,30 +1,27 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
-</picture>
-
-[← All projects](../README.md)
-
 # Feel
 
-Feel is a mobile mental health and wellbeing app. Its programme draws on cognitive behavioural therapies and combines videos, exercises and emotion tracking. The product requires clear user journeys, app reliability and the constraints of delivery on Android and iOS to work together. The app has reached tens of thousands of downloads on Google Play.
+Feel is a mental health app for Android and iOS. Its programme draws on cognitive behavioural therapies and combines videos, exercises and emotion tracking.
 
-I was Tech Lead Mobile from April 2023 to September 2026. I led the rebuild of the Android and iOS apps, followed by their maintenance and ongoing development. My work covered the architecture and development of the React Native and TypeScript app, the native layers and mobile delivery.
+<p><img src="../assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: application screens" width="900"></p>
 
-## Skills
+## My work
 
-**Skills:** React Native · TypeScript · Kotlin · mobile architecture · technical leadership.
+From April 2023 to September 2026, I led the entire technical function. I took on the Android/iOS rebuild, followed by maintenance and further product development.
+
+The mobile app used React Native and TypeScript, with native layers in Kotlin and Swift. The backend used Ruby on Rails and PostgreSQL. My work covered development and maintenance of the APIs, database and administration, along with hosting, deployments and production releases.
+
+## Stack
+
+React Native · TypeScript · Ruby on Rails · PostgreSQL · mobile and backend architecture · technical leadership · deployments
 
 **Period:** April 2023 – September 2026.
 
-## Portfolio
+## Screenshots
 
-![Portfolio presentation — Feel](../assets/projets/feel/feel-portfolio-en-d7a5a1806990.png)
+<p><img src="../assets/projets/feel/feel-gallery-b074affde640.png" alt="Feel: screenshot gallery" width="900"></p>
 
-[Open the portfolio (PDF)](../assets/projets/feel/feel-portfolio-en-4a0fd9cdbc63.pdf)
+<p><a href="../assets/projets/feel/feel-portfolio-1423dd1a9b16.pdf"><img src="../assets/ui/button-pdf-cb21542f80c2.svg" alt="Feel portfolio PDF" width="186" height="44"></a></p>
 
-## Gallery
+---
 
-![Gallery — Feel](../assets/projets/feel/feel-gallery-en-36d13bf90a63.png)
-
-[← All projects](../README.md)
+<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>

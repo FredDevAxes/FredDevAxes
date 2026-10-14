@@ -1,30 +1,25 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
-</picture>
-
-[← All projects](../README.md)
-
 # Sauv'Life
 
-Sauv’Life is an app for volunteer responders mobilised at the request of French emergency medical services (SAMU). When a response is triggered, the mobile journey lets them receive the request, locate themselves, reach the relevant site and access useful information while travelling. The app also provides defibrillator location and an end-of-response journey. It has reached hundreds of thousands of downloads on Google Play.
+Sauv’Life is an app for volunteer responders mobilised at the request of French emergency medical services (SAMU). When a response is triggered, the app lets them receive the request, locate themselves, reach the relevant site and access useful information while travelling. The app also provides defibrillator location and a flow to close the response. It has reached hundreds of thousands of downloads on Google Play.
+
+<p><img src="../assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv&#x27;Life: application screens" width="900"></p>
+
+## My work
 
 From February 2022 to January 2023, I worked as a subcontractor for Big Boss Studio on the Android and iOS rebuild. I worked on geolocation, real-time navigation, communication through WebRTC and operation on degraded networks.
 
-## Skills
+## Stack
 
-**Skills:** React Native · TypeScript · geolocation · WebRTC · operation on degraded networks.
+React Native · TypeScript · geolocation · WebRTC · operation on degraded networks
 
 **Period:** February 2022 – January 2023.
 
-## Portfolio
+## Screenshots
 
-![Portfolio presentation — Sauv'Life](../assets/projets/sauvlife/sauvlife-portfolio-en-2d4d59dc4d2c.png)
+<p><img src="../assets/projets/sauvlife/sauvlife-gallery-68260bfb8346.png" alt="Sauv&#x27;Life: screenshot gallery" width="900"></p>
 
-[Open the portfolio (PDF)](../assets/projets/sauvlife/sauvlife-portfolio-en-3db2dce61858.pdf)
+<p><a href="../assets/projets/sauvlife/sauvlife-portfolio-3db2dce61858.pdf"><img src="../assets/ui/button-pdf-cb21542f80c2.svg" alt="Sauv&#x27;Life portfolio PDF" width="186" height="44"></a></p>
 
-## Gallery
+---
 
-![Gallery — Sauv'Life](../assets/projets/sauvlife/sauvlife-gallery-en-30ca187fc0e2.png)
-
-[← All projects](../README.md)
+<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>

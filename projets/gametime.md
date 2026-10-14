@@ -1,30 +1,25 @@
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="../assets/devaxes/logo-light.png">
-<img src="../assets/devaxes/logo-dark.png" alt="DevAxes logo" width="64">
-</picture>
-
-[← All projects](../README.md)
-
 # GameTime
 
-GameTime is an Android app for board games with time-limited turns. Each player tracks their remaining time and signals the end of their turn with a buzzer. Devices join the same game over Bluetooth, allowing the game state to be shared between participants. The journey includes creating a game or joining an existing one, choosing players and time settings, then playing the session. A game can resume after a disconnection.
+GameTime is an Android app for board games with time-limited turns. Each player tracks their remaining time and signals the end of their turn with a buzzer. Devices join the same game over Bluetooth, allowing the game state to be shared between participants. Players can create a game or join an existing one, choose players and time settings, then start playing. A game can resume after a disconnection.
+
+<p><img src="../assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: application screens" width="900"></p>
+
+## My work
 
 I developed the native Android app in Kotlin as part of an engagement from May 2021 to February 2022. My work covered the app architecture, preparation and gameplay screens, Bluetooth synchronisation and game recovery. The product was delivered for private distribution outside the app stores.
 
-## Skills
+## Stack
 
-**Skills:** Kotlin · Android · Bluetooth · MVVM · Room.
+Kotlin · Android · Bluetooth · MVVM · Room
 
 **Period:** May 2021 – February 2022.
 
-## Portfolio
+## Screenshots
 
-![Portfolio presentation — GameTime](../assets/projets/gametime/gametime-portfolio-en-e691f3fa0030.png)
+<p><img src="../assets/projets/gametime/gametime-gallery-5b0d23686877.png" alt="GameTime: screenshot gallery" width="900"></p>
 
-[Open the portfolio (PDF)](../assets/projets/gametime/gametime-portfolio-en-edbe9f9d31f3.pdf)
+<p><a href="../assets/projets/gametime/gametime-portfolio-b8242f9e1a6d.pdf"><img src="../assets/ui/button-pdf-cb21542f80c2.svg" alt="GameTime portfolio PDF" width="186" height="44"></a></p>
 
-## Gallery
+---
 
-![Gallery — GameTime](../assets/projets/gametime/gametime-gallery-en-2f3efa969d8f.png)
-
-[← All projects](../README.md)
+<p><a href="README.md"><img src="../assets/ui/button-projects-9e5041eb5cc6.svg" alt="All mobile projects" width="232" height="44"></a></p>
