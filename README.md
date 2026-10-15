@@ -60,9 +60,11 @@ A request is saved, but its response is lost. This lab shows how a retry can rec
 
 ### Mobile stack benchmark
 
-<p><img src="assets/labs/mobile-stack-benchmark/catalogue-6c5e0d63a8a0.png" alt="SwiftUI catalogue used in the mobile lab, showing fictional hiking equipment." width="180"></p>
+<p><img src="assets/labs/mobile-stack-benchmark/android-sizes-15f4af1b0f67.png" alt="Android Release APK sizes for Flutter, React Native and Compose, comparing instant S and animated A variants in MiB." width="900"></p>
 
-**In progress**
+Android Release arm64 APK sizes for this catalogue. S uses instant navigation; A adds an animated transition. These are package sizes, not store downloads or installed footprints.
+
+**v0.1.0-virtual-devices · Virtual-device milestone complete**
 
 The same catalogue in Flutter, React Native, Jetpack Compose and SwiftUI, with and without an animated transition.
 
