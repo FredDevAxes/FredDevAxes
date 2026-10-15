@@ -2,9 +2,9 @@
 
 # Frédéric Raimondi
 
-[devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/) · [Malt](https://www.malt.fr/profile/fredericraimondi)
-
 **Senior Mobile Developer** · Android / Kotlin · React Native / TypeScript
+
+[devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/) · [Malt](https://www.malt.fr/profile/fredericraimondi)
 
 ## Work
 
@@ -39,7 +39,7 @@ Visitor app with maps, attractions and food services.<br>
 <code>React Native</code> <code>TypeScript</code> <code>GraphQL</code></p>
 <br clear="both">
 
-<p><a href="projets/README.md"><img src="assets/ui/button-projects-24ec617be155.svg" alt="see all my work" width="232" height="44"></a></p>
+<p align="center"><a href="projets/README.md"><img src="assets/ui/button-projects-24ec617be155.svg" alt="see all my work" width="232" height="44"></a></p>
 
 ## DevAxes Labs
 
@@ -69,4 +69,4 @@ One catalogue across Flutter, React Native, Compose and SwiftUI.<br>
 Virtual-device milestone; no physical-device performance ranking.</p>
 <br clear="both">
 
-<p><a href="labs/README.md"><img src="assets/ui/button-labs-dca84bb38cd9.svg" alt="see all my labs" width="232" height="44"></a></p>
+<p align="center"><a href="labs/README.md"><img src="assets/ui/button-labs-dca84bb38cd9.svg" alt="see all my labs" width="232" height="44"></a></p>
