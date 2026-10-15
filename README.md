@@ -43,6 +43,25 @@ I rebuilt OOTI's mobile apps for architecture firms, covering projects, time ent
 
 These are personal experiments with public code and instructions to run them locally.
 
+### Compose Atlas
+
+<p><img src="assets/labs/compose-atlas/gallery-player-1139af5bc961.png" alt="Compose Atlas v0.2.0: fictional audio player with waveform artwork and playback controls." width="230">
+<img src="assets/labs/compose-atlas/gallery-collection-13a30e099943.png" alt="Compose Atlas v0.2.0: searchable object collection with categories and favorites." width="230">
+<img src="assets/labs/compose-atlas/gallery-agenda-5df4ad127b44.png" alt="Compose Atlas v0.2.0: custom agenda with overlapping sessions." width="230"></p>
+
+Native Android captures: player, collection and agenda. The player simulates playback without sound.
+
+**v0.2.0 · Five working Android experiments**
+
+Explore Jetpack Compose through a fictional audio player, an interactive chart, a collection, a form and a timeline. Change the behavior, then open Understand to see how it works.
+
+`Kotlin` `Jetpack Compose` `Canvas` `Animation` `UI testing`
+
+<p><a href="https://github.com/FredDevAxes/compose-atlas"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Compose Atlas repository" width="210" height="44"></a></p>
+
+
+---
+
 ### Idempotent requests
 
 <p><img src="assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>

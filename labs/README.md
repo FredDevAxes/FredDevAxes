@@ -2,6 +2,33 @@
 
 Small projects where I explore a specific technical question. Each lab has its own public repository.
 
+## Compose Atlas
+
+<p><img src="../assets/labs/compose-atlas/gallery-player-1139af5bc961.png" alt="Compose Atlas v0.2.0: fictional audio player with waveform artwork and playback controls." width="230">
+<img src="../assets/labs/compose-atlas/gallery-collection-13a30e099943.png" alt="Compose Atlas v0.2.0: searchable object collection with categories and favorites." width="230">
+<img src="../assets/labs/compose-atlas/gallery-agenda-5df4ad127b44.png" alt="Compose Atlas v0.2.0: custom agenda with overlapping sessions." width="230"></p>
+
+Native Android captures: player, collection and agenda. The player simulates playback without sound.
+
+**v0.2.0 · Five working Android experiments**
+
+Explore Jetpack Compose through a fictional audio player, an interactive chart, a collection, a form and a timeline. Change the behavior, then open Understand to see how it works.
+
+`Kotlin` `Jetpack Compose` `Canvas` `Animation` `UI testing`
+
+The chart compares Tween and Spring side by side, including quarter-speed playback and spring overshoot. The player explores animated content, compact and expanded states, gestures and lifecycle effects. The collection keeps object identity through filtering, favorites and grid/list transitions.
+
+The form makes keyboard focus, local validation and state restoration visible. The agenda turns time into layout, with overlap lanes, zoom and a chronological list for narrow windows or enlarged text. Every scene has an Understand tab.
+
+This evolving MIT lab runs offline with synthetic data and no account or backend. The v0.2.0 milestone passed 13 unit tests and 14 local instrumented tests; GitHub CI also passed on an API 36 emulator. Physical-device performance and exhaustive Compose API coverage are outside this milestone.
+
+[Visual tour](https://github.com/FredDevAxes/compose-atlas/blob/main/docs/visual-tour.md) · [Run locally](https://github.com/FredDevAxes/compose-atlas#run-it) · [Capability map](https://github.com/FredDevAxes/compose-atlas/blob/main/docs/coverage.md) · [Verified milestone](https://github.com/FredDevAxes/compose-atlas/tree/v0.2.0)
+
+<p><a href="https://github.com/FredDevAxes/compose-atlas"><img src="../assets/ui/button-repository-913347d886e7.svg" alt="Open Compose Atlas repository" width="210" height="44"></a></p>
+
+
+---
+
 ## Idempotent requests
 
 <p><img src="../assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>
