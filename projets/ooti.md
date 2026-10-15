@@ -4,7 +4,7 @@
 
 OOTI is an ERP for architecture firms. Its mobile app supports tasks also performed away from the office: tracking projects, recording time, entering expenses and supporting documents, reviewing invoices or handling approvals. These data then feed project management and profitability.
 
-<p><img src="../assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: application screens" width="900"></p>
+<p><img src="../assets/projets/ooti/card-5548c812badf.png" alt="OOTI: application screens" width="900"></p>
 
 ## My work
 

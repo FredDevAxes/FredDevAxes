@@ -4,7 +4,7 @@
 
 The official Parc Astérix app accompanies visitors during their visit. It brings together a park map, search and filters, attractions and food services. Visitors use it on site to find places and practical information. The React Native app runs on Android and iOS, with mapping, geolocation and business-service integrations.
 
-<p><img src="../assets/projets/parc-asterix/parc-asterix-first-page-1af21adc9937.webp" alt="Application Parc Astérix: application screens" width="900"></p>
+<p><img src="../assets/projets/parc-asterix/card-2a8e5c3ce59a.png" alt="Application Parc Astérix: application screens" width="900"></p>
 
 ## My work
 

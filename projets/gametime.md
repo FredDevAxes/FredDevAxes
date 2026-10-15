@@ -4,7 +4,7 @@
 
 GameTime is an Android app for board games with time-limited turns. Each player tracks their remaining time and signals the end of their turn with a buzzer. Devices join the same game over Bluetooth, allowing the game state to be shared between participants. Players can create a game or join an existing one, choose players and time settings, then start playing. A game can resume after a disconnection.
 
-<p><img src="../assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: application screens" width="900"></p>
+<p><img src="../assets/projets/gametime/card-0d4d57e28905.png" alt="GameTime: application screens" width="900"></p>
 
 ## My work
 

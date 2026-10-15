@@ -4,7 +4,9 @@
 
 Laundrapp offered on-demand laundry and dry cleaning in the United Kingdom, with collection and delivery of clothes. Mobile served two distinct uses: customers ordering and tracking the service; couriers handling orders, organising routes and sharing their location while travelling. The courier app had to fit into field operations and a fleet of company-managed Android devices.
 
-<p><img src="../assets/projets/laundrapp/laundrapp-first-page-b41b0655ad84.webp" alt="Laundrapp: application screens" width="900"></p>
+<p><img src="../assets/projets/laundrapp/card-663930c51b2a.png" alt="Laundrapp: application screens" width="900"></p>
+
+AI-reconstructed interfaces based on historical visuals, matching DevAxes.com.
 
 ## My work
 
@@ -18,9 +20,7 @@ I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Androi
 
 ## Gallery
 
-<p><img src="../assets/projets/laundrapp/gallery/screen-1-ef6b556d7599.png" alt="Laundrapp — screen 1" width="260"> <img src="../assets/projets/laundrapp/gallery/screen-3-db811853ddd0.png" alt="Laundrapp — screen 3" width="260"> <img src="../assets/projets/laundrapp/gallery/screen-5-cc5ef5488025.png" alt="Laundrapp — screen 5" width="260"></p>
-
-<p><img src="../assets/projets/laundrapp/gallery/marketing-panel-2-4461114ffce2.png" alt="Offers &amp; catalogue" width="260"> <img src="../assets/projets/laundrapp/gallery/marketing-panel-4-fa0d3a30a82e.png" alt="Product details" width="260"></p>
+<p><img src="../assets/projets/laundrapp/gallery/catalog-reconstructed-iphone-22c41f85cd81.webp" alt="Catalogue — reconstructed interface" width="260"> <img src="../assets/projets/laundrapp/gallery/tracking-reconstructed-iphone-1dbcd19639af.webp" alt="Order tracking — reconstructed interface" width="260"> <img src="../assets/projets/laundrapp/gallery/product-reconstructed-iphone-5f61c277c428.webp" alt="Product details — reconstructed interface" width="260"></p>
 
 
 ---

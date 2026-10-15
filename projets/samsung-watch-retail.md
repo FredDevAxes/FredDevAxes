@@ -4,7 +4,7 @@
 
 Samsung Watch Retail is an Android demonstration app installed on a retail kiosk. It allowed visitors to explore Galaxy Watch customisation options, particularly watch faces and straps. In this context, the app had to remain available for unsupervised public use: it ran in kiosk mode and returned to its initial state between visits, so that each person encountered a fresh demonstration.
 
-<p><img src="../assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: application screens" width="900"></p>
+<p><img src="../assets/projets/samsung-watch-retail/card-c3a4c3988395.png" alt="Samsung Watch Retail: application screens" width="900"></p>
 
 ## My work
 

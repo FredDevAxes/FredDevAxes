@@ -4,7 +4,7 @@
 
 Hoop Hook is a native Android app for a connected basketball device. It communicates with a sensor over Bluetooth Low Energy, monitors its state and offers several game modes. The mobile app manages the equipment connection, battery state and useful information during a session. The product was delivered to the client.
 
-<p><img src="../assets/projets/hoop-hook/hoop-hook-first-page-06cba474add3.webp" alt="Hoop Hook: application screens" width="900"></p>
+<p><img src="../assets/projets/hoop-hook/card-8cec4c6832d4.png" alt="Hoop Hook: application screens" width="900"></p>
 
 ## My work
 

@@ -4,7 +4,7 @@
 
 OOPET Love is a social Android app centred on pets and their owners. It brings together profiles and interactions, messaging, and tools for selecting and sharing photos and videos. The project belonged to a set of products for the same client: OOPET Love and OOPET Lost are two distinct apps that shared a common Kotlin library.
 
-<p><img src="../assets/projets/oopet-love/oopet-love-first-page-c2dbfb9d9df7.webp" alt="OOPET Love: application screens" width="900"></p>
+<p><img src="../assets/projets/oopet-love/card-d992dfb82c0f.png" alt="OOPET Love: application screens" width="900"></p>
 
 ## My work
 

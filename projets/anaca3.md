@@ -4,7 +4,7 @@
 
 Anaca3 - Scan minceur was a mobile app for checking food products. Users scanned a product's barcode to display a nutrition score and alternatives.
 
-<p><img src="../assets/projets/anaca3/anaca3-three-screens-e6004bbcfa51.svg" alt="Anaca3 - Scan minceur: application screens" width="900"></p>
+<p><img src="../assets/projets/anaca3/card-bbefa6df2812.png" alt="Anaca3 - Scan minceur: application screens" width="900"></p>
 
 ## My work
 
@@ -16,9 +16,7 @@ At Big Boss Studio, I maintained this existing app.
 
 ## Gallery
 
-<p><img src="../assets/projets/anaca3/gallery/scan-poster-07eef2f1f0f6.webp" alt="Historical Anaca3 poster showing barcode scanning" width="260"> <img src="../assets/projets/anaca3/gallery/score-poster-68cf6efe7be2.webp" alt="Historical Anaca3 poster showing a detailed food score" width="260"> <img src="../assets/projets/anaca3/gallery/alternatives-poster-b85214dce621.webp" alt="Historical Anaca3 poster showing food alternatives" width="260"></p>
-
-<p><img src="../assets/projets/anaca3/gallery/food-poster-2a45b1254e3f.webp" alt="Historical Anaca3 poster showing food information" width="260"> <img src="../assets/projets/anaca3/gallery/onboarding-poster-ca37a18689a7.webp" alt="Historical Anaca3 poster showing the onboarding flow" width="260"></p>
+<p><img src="../assets/projets/anaca3/gallery/score-screen-iphone-2727bb702aac.webp" alt="Food score — extracted interface" width="260"> <img src="../assets/projets/anaca3/gallery/alternatives-screen-iphone-b065cf96c472.webp" alt="Alternatives — extracted interface" width="260"> <img src="../assets/projets/anaca3/gallery/food-history-screen-iphone-446c274d4fd3.webp" alt="Product history — extracted interface" width="260"></p>
 
 
 ---

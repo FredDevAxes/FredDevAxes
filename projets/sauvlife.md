@@ -4,7 +4,7 @@
 
 Sauv’Life is an app for volunteer responders mobilised at the request of French emergency medical services (SAMU). When a response is triggered, the app lets them receive the request, locate themselves, reach the relevant site and access useful information while travelling. The app also provides defibrillator location and a flow to close the response. It has reached hundreds of thousands of downloads on Google Play.
 
-<p><img src="../assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv&#x27;Life: application screens" width="900"></p>
+<p><img src="../assets/projets/sauvlife/card-cf4cdfec82c3.png" alt="Sauv&#x27;Life: application screens" width="900"></p>
 
 ## My work
 

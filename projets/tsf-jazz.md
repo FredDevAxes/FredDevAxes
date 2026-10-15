@@ -4,7 +4,7 @@
 
 The TSF Jazz mobile app brings together live radio and on-demand listening content. It allows listeners to move from the live stream to podcasts and themed streams, while providing access to the station's programmes and editorial content. Its player remains accessible while navigating the app, on both iOS and Android.
 
-<p><img src="../assets/projets/tsf-jazz/tsf-jazz-first-page-90630dd942e0.webp" alt="TSF Jazz: application screens" width="900"></p>
+<p><img src="../assets/projets/tsf-jazz/card-89201efbcd14.png" alt="TSF Jazz: application screens" width="900"></p>
 
 ## My work
 

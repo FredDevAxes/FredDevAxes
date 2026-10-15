@@ -4,7 +4,7 @@
 
 Feel is a mental health app for Android and iOS. Its programme draws on cognitive behavioural therapies and combines videos, exercises and emotion tracking.
 
-<p><img src="../assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: application screens" width="900"></p>
+<p><img src="../assets/projets/feel/card-ceab59297b39.png" alt="Feel: application screens" width="900"></p>
 
 ## My work
 

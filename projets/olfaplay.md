@@ -4,7 +4,7 @@
 
 Olfaplay was an audio-story platform conceived by Guerlain around memories associated with scents. Users could record a story, give it a title and an image, then submit it for moderation before publication. Published stories could be streamed, liked and commented on; users could also follow accounts and explore content by mood or scent family. The product existed on mobile and the web. Its public launch took place in December 2018.
 
-<p><img src="../assets/projets/olfaplay/olfaplay-first-page-f61feae0ca0b.webp" alt="Olfaplay: application screens" width="900"></p>
+<p><img src="../assets/projets/olfaplay/card-a4406cb32e9c.png" alt="Olfaplay: application screens" width="900"></p>
 
 ## My work
 
