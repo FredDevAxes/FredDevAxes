@@ -1,4 +1,4 @@
-<p><img src="assets/ui/banner-a20013704a33.svg" alt="DevAxes: mobile apps and public labs" width="900"></p>
+<p><img src="assets/ui/devaxes-linkedin-banner-1eaded7ab91d.png" alt="DevAxes — You know your business. I build the software around it. +15 years of experience · 100% satisfaction · +20 projects" width="900"></p>
 
 # Frédéric Raimondi
 
