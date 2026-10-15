@@ -6,8 +6,6 @@ Laundrapp offered on-demand laundry and dry cleaning in the United Kingdom, with
 
 <p><img src="../assets/projets/laundrapp/card-663930c51b2a.png" alt="Laundrapp: application screens" width="900"></p>
 
-AI-reconstructed interfaces based on historical visuals, matching DevAxes.com.
-
 ## My work
 
 I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Android Developer. I was responsible for developing and maintaining the customer Android app, distributed on Google Play and the Amazon Appstore. I also designed and built the courier Android app from scratch, with order handling, routes and location tracking. My work included analytics, crash reporting, feature flags and automated builds. With the operations teams, I worked on device fleet management, particularly Android control tools and NFC provisioning.
@@ -20,7 +18,7 @@ I worked at Laundrapp in London from March 2015 to March 2016 as a Senior Androi
 
 ## Gallery
 
-<p><img src="../assets/projets/laundrapp/gallery/catalog-reconstructed-iphone-22c41f85cd81.webp" alt="Catalogue — reconstructed interface" width="260"> <img src="../assets/projets/laundrapp/gallery/tracking-reconstructed-iphone-1dbcd19639af.webp" alt="Order tracking — reconstructed interface" width="260"> <img src="../assets/projets/laundrapp/gallery/product-reconstructed-iphone-5f61c277c428.webp" alt="Product details — reconstructed interface" width="260"></p>
+<p><img src="../assets/projets/laundrapp/gallery/catalog-iphone-22c41f85cd81.webp" alt="Catalogue" width="260"> <img src="../assets/projets/laundrapp/gallery/tracking-iphone-1dbcd19639af.webp" alt="Order tracking" width="260"> <img src="../assets/projets/laundrapp/gallery/product-iphone-5f61c277c428.webp" alt="Product details" width="260"></p>
 
 
 ---

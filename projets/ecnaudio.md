@@ -16,9 +16,9 @@ I was the React Native mobile developer responsible for the app, first at Big Bo
 
 ## Gallery
 
-<p><img src="../assets/projets/ecnaudio/gallery/account-screen-3b490cb33c20.webp" alt="Account — extracted interface" width="260"> <img src="../assets/projets/ecnaudio/gallery/navigation-screen-9d7211bfb3cd.webp" alt="Navigation — extracted interface" width="260"> <img src="../assets/projets/ecnaudio/gallery/player-screen-eace016ba885.webp" alt="Audio player — extracted interface" width="260"></p>
+<p><img src="../assets/projets/ecnaudio/gallery/account-screen-3b490cb33c20.webp" alt="Account" width="260"> <img src="../assets/projets/ecnaudio/gallery/navigation-screen-9d7211bfb3cd.webp" alt="Navigation" width="260"> <img src="../assets/projets/ecnaudio/gallery/player-screen-eace016ba885.webp" alt="Audio player" width="260"></p>
 
-<p><img src="../assets/projets/ecnaudio/gallery/playlists-screen-811f780f4a07.webp" alt="Playlists — extracted interface" width="260"></p>
+<p><img src="../assets/projets/ecnaudio/gallery/playlists-screen-811f780f4a07.webp" alt="Playlists" width="260"></p>
 
 
 ---
