@@ -2,6 +2,8 @@
 
 # Frédéric Raimondi
 
+[devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/) · [Malt](https://www.malt.fr/profile/fredericraimondi)
+
 **Senior Mobile Developer** · Android / Kotlin · React Native / TypeScript
 
 [Work details](projets/README.md) · [Lab notes](labs/README.md)
@@ -146,8 +148,3 @@ One catalogue across Flutter, React Native, Compose and SwiftUI.<br>
 <code>v0.1.0-virtual-devices</code><br>
 Virtual-device milestone; no physical-device performance ranking.</p>
 <br clear="both">
-
-
----
-
-[devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/)
