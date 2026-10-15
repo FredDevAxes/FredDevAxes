@@ -1,6 +1,14 @@
+[Back to profile](../README.md) · [Work](../projets/README.md)
+
 # DevAxes Labs
 
-Small projects where I explore a specific technical question. Each lab has its own public repository.
+Personal experiments with public code and instructions to run them locally. Each lab has its own technical repository.
+
+[Compose Atlas](#lab-compose-atlas) · [Idempotent requests](#lab-idempotent-requests-lab) · [Mobile stack benchmark](#lab-mobile-stack-benchmark)
+
+---
+
+<a id="lab-compose-atlas"></a>
 
 ## Compose Atlas
 
@@ -29,6 +37,8 @@ This evolving MIT lab runs offline with synthetic data and no account or backend
 
 ---
 
+<a id="lab-idempotent-requests-lab"></a>
+
 ## Idempotent requests
 
 <p><img src="../assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>
@@ -53,6 +63,8 @@ Retrying the same request recovers its confirmation: two sends, one saved reques
 
 
 ---
+
+<a id="lab-mobile-stack-benchmark"></a>
 
 ## Mobile stack benchmark
 
@@ -80,8 +92,7 @@ iOS sizes measure unsigned arm64 device Release app bundles. Compare stacks with
 
 <p><a href="https://github.com/FredDevAxes/mobile-stack-benchmark"><img src="../assets/ui/button-repository-913347d886e7.svg" alt="Open Mobile stack benchmark repository" width="210" height="44"></a></p>
 
+
 ---
 
-<p><a href="../README.md"><img src="../assets/ui/button-profile-41db3f0638fc.svg" alt="Back to profile" width="196" height="44"></a></p>
-
-<p align="center"><a href="../projets/README.md">All mobile projects</a></p>
+[devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/)

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="DevAxes: mobile apps and public labs">
+<rect width="1200" height="150" rx="12" fill="#6525c5"/>
+<g fill="#bca0f3"><path d="M1010 0h140L1050 150H910z"/><path d="M1150 0h50v150h-150z" opacity=".42"/></g>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif"><text x="38" y="65" font-size="46" font-weight="700">DevAxes</text><text x="38" y="114" font-size="36">Mobile apps &amp; public labs</text></g></svg>

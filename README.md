@@ -1,99 +1,151 @@
-<p><img src="assets/ui/banner-6ddff1092fc6.svg" alt="DevAxes: mobile apps and public labs" width="900"></p>
+<p><img src="assets/ui/banner-a20013704a33.svg" alt="DevAxes: mobile apps and public labs" width="900"></p>
 
 # Frédéric Raimondi
 
-**Senior Mobile Developer**
+**Senior Mobile Developer** · Android / Kotlin · React Native / TypeScript
 
-Android / Kotlin · React Native / TypeScript
+[Work details](projets/README.md) · [Lab notes](labs/README.md)
 
-I build Android and iOS apps with Kotlin and React Native. I also take over existing products, from the codebase and backend to app store releases.
+## Work
 
-## Selected mobile work
+Applications I have contributed to.
 
-### Feel
-
-<p><img src="assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: application screens" width="900"></p>
-
-Feel is a mental health app for Android and iOS. As CTO / Full Stack Developer, I led the technical team, rebuilt the mobile apps and maintained the Ruby on Rails backend.
-
-`React Native` `TypeScript` `Ruby on Rails` `PostgreSQL` `mobile and backend architecture` `technical leadership` `deployments`
-
-<p><a href="projets/feel.md"><img src="assets/ui/button-project-31c389cc25d7.svg" alt="View Feel project" width="168" height="44"></a></p>
+<p><img align="left" src="assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: project preview" width="180"><strong><a href="projets/README.md#work-feel">Feel</a></strong><br>
+Mental health app. Mobile rebuild, technical leadership and Ruby on Rails backend.<br>
+<code>React Native</code> <code>TypeScript</code> <code>Ruby on Rails</code></p>
+<br clear="both">
 
 
 ---
 
-### OOTI
+<p><img align="left" src="assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: project preview" width="180"><strong><a href="projets/README.md#work-ooti">OOTI</a></strong><br>
+Mobile apps for architecture firms: projects, time entries, expenses and approvals.<br>
+<code>React Native</code> <code>TypeScript</code> <code>Redux/Saga</code></p>
+<br clear="both">
 
-<p><img src="assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: application screens" width="900"></p>
-
-I rebuilt OOTI's mobile apps for architecture firms, covering projects, time entries, expenses and approvals.
-
-`React Native` `TypeScript` `Redux/Saga` `REST API` `mobile CI/CD`
-
-<p><a href="projets/ooti.md"><img src="assets/ui/button-project-31c389cc25d7.svg" alt="View OOTI project" width="168" height="44"></a></p>
 
 ---
 
-<p align="center"><a href="projets/README.md">All mobile projects</a></p>
+<p><img align="left" src="assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv’Life: project preview" width="180"><strong><a href="projets/README.md#work-sauvlife">Sauv’Life</a></strong><br>
+Mobile rebuild for volunteer responders, with geolocation and navigation.<br>
+<code>React Native</code> <code>TypeScript</code> <code>Geolocation</code></p>
+<br clear="both">
+
 
 ---
+
+<p><img align="left" src="assets/projets/parc-asterix/parc-asterix-first-page-1af21adc9937.webp" alt="Parc Astérix: project preview" width="180"><strong><a href="projets/README.md#work-parc-asterix">Parc Astérix</a></strong><br>
+Visitor app with maps, attractions and food services.<br>
+<code>React Native</code> <code>TypeScript</code> <code>GraphQL</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: project preview" width="180"><strong><a href="projets/README.md#work-gametime">GameTime</a></strong><br>
+Board-game timer with Bluetooth synchronisation and game recovery. Private distribution.<br>
+<code>Kotlin</code> <code>Android</code> <code>Bluetooth</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/hoop-hook/hoop-hook-first-page-06cba474add3.webp" alt="Hoop Hook: project preview" width="180"><strong><a href="projets/README.md#work-hoop-hook">Hoop Hook</a></strong><br>
+Connected basketball app with sensor pairing and several game modes.<br>
+<code>Kotlin</code> <code>Android</code> <code>BLE</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/oopet-love/oopet-love-first-page-c2dbfb9d9df7.webp" alt="OOPET Love: project preview" width="180"><strong><a href="projets/README.md#work-oopet-love">OOPET Love</a></strong><br>
+Community app for pet owners, with profiles, messaging and media sharing.<br>
+<code>Kotlin</code> <code>Android</code> <code>Firebase</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: project preview" width="180"><strong><a href="projets/README.md#work-samsung-watch-retail">Samsung Watch Retail</a></strong><br>
+In-store Galaxy Watch demo app, with kiosk mode and session reset.<br>
+<code>Kotlin</code> <code>Android</code> <code>Kiosk mode</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/tsf-jazz/tsf-jazz-first-page-90630dd942e0.webp" alt="TSF Jazz: project preview" width="180"><strong><a href="projets/README.md#work-tsf-jazz">TSF Jazz</a></strong><br>
+Live radio, podcasts and themed streams on iOS and Android.<br>
+<code>React Native</code> <code>Audio streaming</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/ecnaudio/ecnaudio-first-page-7387bc8fd9a1.webp" alt="ECNAudio: project preview" width="180"><strong><a href="projets/README.md#work-ecnaudio">ECNAudio</a></strong><br>
+Audio learning for medical students, with downloads and offline listening.<br>
+<code>React Native</code> <code>Offline audio</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/olfaplay/olfaplay-first-page-f61feae0ca0b.webp" alt="Olfaplay: project preview" width="180"><strong><a href="projets/README.md#work-olfaplay">Olfaplay</a></strong><br>
+Mobile contributions to Guerlain’s audio storytelling platform.<br>
+<code>iOS</code> <code>Android</code> <code>Audio recording</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/laundrapp/laundrapp-first-page-b41b0655ad84.webp" alt="Laundrapp: project preview" width="180"><strong><a href="projets/README.md#work-laundrapp">Laundrapp</a></strong><br>
+Customer and courier Android apps for on-demand laundry services.<br>
+<code>Android</code> <code>Java</code> <code>Google Maps</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/projets/anaca3/anaca3-three-screens-e6004bbcfa51.svg" alt="Anaca3: project preview" width="180"><strong><a href="projets/README.md#work-anaca3">Anaca3</a></strong><br>
+Maintenance of a mobile app for scanning food and viewing alternatives.<br>
+<code>Mobile app maintenance</code></p>
+<br clear="both">
+
+
+---
+
+<p><img align="left" src="assets/ui/krea-thumbnail-b06e42a03ac9.svg" alt="Kréa: project preview" width="180"><strong><a href="projets/README.md#work-krea">Kréa</a></strong><br>
+Visual editor and Lua code generator for Corona SDK mobile projects. Support ended.<br>
+<code>C#/.NET</code> <code>WPF</code> <code>Lua</code></p>
+<br clear="both">
 
 ## DevAxes Labs
 
-These are personal experiments with public code and instructions to run them locally.
+Personal experiments with public code and instructions to run them locally.
 
-### Compose Atlas
-
-<p><img src="assets/labs/compose-atlas/gallery-player-1139af5bc961.png" alt="Compose Atlas v0.2.0: fictional audio player with waveform artwork and playback controls." width="230">
-<img src="assets/labs/compose-atlas/gallery-collection-13a30e099943.png" alt="Compose Atlas v0.2.0: searchable object collection with categories and favorites." width="230">
-<img src="assets/labs/compose-atlas/gallery-agenda-5df4ad127b44.png" alt="Compose Atlas v0.2.0: custom agenda with overlapping sessions." width="230"></p>
-
-Native Android captures: player, collection and agenda. The player simulates playback without sound.
-
-**v0.2.0 · Five working Android experiments**
-
-Explore Jetpack Compose through a fictional audio player, an interactive chart, a collection, a form and a timeline. Change the behavior, then open Understand to see how it works.
-
-`Kotlin` `Jetpack Compose` `Canvas` `Animation` `UI testing`
-
-<p><a href="https://github.com/FredDevAxes/compose-atlas"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Compose Atlas repository" width="210" height="44"></a></p>
+<p><img align="left" src="assets/ui/compose-atlas-thumbnail-2de501f0f9e5.svg" alt="Compose Atlas: project preview" width="180"><strong><a href="labs/README.md#lab-compose-atlas">Compose Atlas</a></strong><br>
+Five interactive Android scenes to explore Jetpack Compose.<br>
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>v0.2.0</code><br>
+Offline lab with synthetic data.</p>
+<br clear="both">
 
 
 ---
 
-### Idempotent requests
-
-<p><img src="assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Lost reply in v0.3.1: the client is unconfirmed while the server has saved one request; technical details are collapsed." width="900"></p>
-
-**v0.3.1 · Local prototype**
-
-A request is saved, but its response is lost. This lab shows how a retry can recover it without creating a second request.
-
-`NestJS` `PostgreSQL` `React` `TypeScript`
-
-<p><a href="https://github.com/FredDevAxes/idempotent-requests-lab"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Idempotent requests repository" width="210" height="44"></a></p>
+<p><img align="left" src="assets/labs/idempotent-requests-lab/lost-reply-e68d42e13b38.png" alt="Idempotent requests: project preview" width="180"><strong><a href="labs/README.md#lab-idempotent-requests-lab">Idempotent requests</a></strong><br>
+Recover a lost response without saving the same request twice.<br>
+<code>NestJS</code> <code>PostgreSQL</code> <code>React</code> <code>v0.3.1</code><br>
+Local prototype; database transaction only.</p>
+<br clear="both">
 
 
 ---
 
-### Mobile stack benchmark
-
-<p><img src="assets/labs/mobile-stack-benchmark/android-sizes-15f4af1b0f67.png" alt="Android Release APK sizes for Flutter, React Native and Compose, comparing instant S and animated A variants in MiB." width="900"></p>
-
-Android Release arm64 APK sizes for this catalogue. S uses instant navigation; A adds an animated transition. These are package sizes, not store downloads or installed footprints.
-
-**v0.1.0-virtual-devices · Virtual-device milestone complete**
-
-The same catalogue in Flutter, React Native, Jetpack Compose and SwiftUI, with and without an animated transition.
-
-`Flutter` `React Native` `Kotlin / Compose` `Swift / SwiftUI`
-
-<p><a href="https://github.com/FredDevAxes/mobile-stack-benchmark"><img src="assets/ui/button-repository-913347d886e7.svg" alt="Open Mobile stack benchmark repository" width="210" height="44"></a></p>
-
----
-
-<p align="center"><a href="labs/README.md">All labs</a></p>
+<p><img align="left" src="assets/labs/mobile-stack-benchmark/android-sizes-15f4af1b0f67.png" alt="Mobile stack benchmark: project preview" width="180"><strong><a href="labs/README.md#lab-mobile-stack-benchmark">Mobile stack benchmark</a></strong><br>
+One catalogue across Flutter, React Native, Compose and SwiftUI.<br>
+<code>v0.1.0-virtual-devices</code><br>
+Virtual-device milestone; no physical-device performance ranking.</p>
+<br clear="both">
 
 
 ---
