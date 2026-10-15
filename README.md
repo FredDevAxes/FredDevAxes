@@ -10,7 +10,7 @@
 
 Applications I have contributed to.
 
-<p><img align="left" src="assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: project preview" width="180"><strong><a href="projets/README.md#work-feel">Feel</a></strong><br>
+<p><img align="left" src="assets/projets/feel/feel-first-page-d36b83f2a3c2.webp" alt="Feel: project preview" width="180"><strong><a href="projets/feel.md">Feel</a></strong><br>
 Mental health app. Mobile rebuild, technical leadership and Ruby on Rails backend.<br>
 <code>React Native</code> <code>TypeScript</code> <code>Ruby on Rails</code></p>
 <br clear="both">
@@ -18,7 +18,7 @@ Mental health app. Mobile rebuild, technical leadership and Ruby on Rails backen
 
 ---
 
-<p><img align="left" src="assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: project preview" width="180"><strong><a href="projets/README.md#work-ooti">OOTI</a></strong><br>
+<p><img align="left" src="assets/projets/ooti/ooti-first-page-773f0c95d4c7.webp" alt="OOTI: project preview" width="180"><strong><a href="projets/ooti.md">OOTI</a></strong><br>
 Mobile apps for architecture firms: projects, time entries, expenses and approvals.<br>
 <code>React Native</code> <code>TypeScript</code> <code>Redux/Saga</code></p>
 <br clear="both">
@@ -26,7 +26,7 @@ Mobile apps for architecture firms: projects, time entries, expenses and approva
 
 ---
 
-<p><img align="left" src="assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv’Life: project preview" width="180"><strong><a href="projets/README.md#work-sauvlife">Sauv’Life</a></strong><br>
+<p><img align="left" src="assets/projets/sauvlife/sauvlife-first-page-df319e6f0be8.webp" alt="Sauv’Life: project preview" width="180"><strong><a href="projets/sauvlife.md">Sauv’Life</a></strong><br>
 Mobile rebuild for volunteer responders, with geolocation and navigation.<br>
 <code>React Native</code> <code>TypeScript</code> <code>Geolocation</code></p>
 <br clear="both">
@@ -34,7 +34,7 @@ Mobile rebuild for volunteer responders, with geolocation and navigation.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/parc-asterix/parc-asterix-first-page-1af21adc9937.webp" alt="Parc Astérix: project preview" width="180"><strong><a href="projets/README.md#work-parc-asterix">Parc Astérix</a></strong><br>
+<p><img align="left" src="assets/projets/parc-asterix/parc-asterix-first-page-1af21adc9937.webp" alt="Parc Astérix: project preview" width="180"><strong><a href="projets/parc-asterix.md">Parc Astérix</a></strong><br>
 Visitor app with maps, attractions and food services.<br>
 <code>React Native</code> <code>TypeScript</code> <code>GraphQL</code></p>
 <br clear="both">
@@ -42,7 +42,7 @@ Visitor app with maps, attractions and food services.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: project preview" width="180"><strong><a href="projets/README.md#work-gametime">GameTime</a></strong><br>
+<p><img align="left" src="assets/projets/gametime/gametime-first-page-fe308e12bddc.webp" alt="GameTime: project preview" width="180"><strong><a href="projets/gametime.md">GameTime</a></strong><br>
 Board-game timer with Bluetooth synchronisation and game recovery. Private distribution.<br>
 <code>Kotlin</code> <code>Android</code> <code>Bluetooth</code></p>
 <br clear="both">
@@ -50,7 +50,7 @@ Board-game timer with Bluetooth synchronisation and game recovery. Private distr
 
 ---
 
-<p><img align="left" src="assets/projets/hoop-hook/hoop-hook-first-page-06cba474add3.webp" alt="Hoop Hook: project preview" width="180"><strong><a href="projets/README.md#work-hoop-hook">Hoop Hook</a></strong><br>
+<p><img align="left" src="assets/projets/hoop-hook/hoop-hook-first-page-06cba474add3.webp" alt="Hoop Hook: project preview" width="180"><strong><a href="projets/hoop-hook.md">Hoop Hook</a></strong><br>
 Connected basketball app with sensor pairing and several game modes.<br>
 <code>Kotlin</code> <code>Android</code> <code>BLE</code></p>
 <br clear="both">
@@ -58,7 +58,7 @@ Connected basketball app with sensor pairing and several game modes.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/oopet-love/oopet-love-first-page-c2dbfb9d9df7.webp" alt="OOPET Love: project preview" width="180"><strong><a href="projets/README.md#work-oopet-love">OOPET Love</a></strong><br>
+<p><img align="left" src="assets/projets/oopet-love/oopet-love-first-page-c2dbfb9d9df7.webp" alt="OOPET Love: project preview" width="180"><strong><a href="projets/oopet-love.md">OOPET Love</a></strong><br>
 Community app for pet owners, with profiles, messaging and media sharing.<br>
 <code>Kotlin</code> <code>Android</code> <code>Firebase</code></p>
 <br clear="both">
@@ -66,7 +66,7 @@ Community app for pet owners, with profiles, messaging and media sharing.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: project preview" width="180"><strong><a href="projets/README.md#work-samsung-watch-retail">Samsung Watch Retail</a></strong><br>
+<p><img align="left" src="assets/projets/samsung-watch-retail/samsung-watch-retail-first-page-9908e7602755.webp" alt="Samsung Watch Retail: project preview" width="180"><strong><a href="projets/samsung-watch-retail.md">Samsung Watch Retail</a></strong><br>
 In-store Galaxy Watch demo app, with kiosk mode and session reset.<br>
 <code>Kotlin</code> <code>Android</code> <code>Kiosk mode</code></p>
 <br clear="both">
@@ -74,7 +74,7 @@ In-store Galaxy Watch demo app, with kiosk mode and session reset.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/tsf-jazz/tsf-jazz-first-page-90630dd942e0.webp" alt="TSF Jazz: project preview" width="180"><strong><a href="projets/README.md#work-tsf-jazz">TSF Jazz</a></strong><br>
+<p><img align="left" src="assets/projets/tsf-jazz/tsf-jazz-first-page-90630dd942e0.webp" alt="TSF Jazz: project preview" width="180"><strong><a href="projets/tsf-jazz.md">TSF Jazz</a></strong><br>
 Live radio, podcasts and themed streams on iOS and Android.<br>
 <code>React Native</code> <code>Audio streaming</code></p>
 <br clear="both">
@@ -82,7 +82,7 @@ Live radio, podcasts and themed streams on iOS and Android.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/ecnaudio/ecnaudio-first-page-7387bc8fd9a1.webp" alt="ECNAudio: project preview" width="180"><strong><a href="projets/README.md#work-ecnaudio">ECNAudio</a></strong><br>
+<p><img align="left" src="assets/projets/ecnaudio/ecnaudio-first-page-7387bc8fd9a1.webp" alt="ECNAudio: project preview" width="180"><strong><a href="projets/ecnaudio.md">ECNAudio</a></strong><br>
 Audio learning for medical students, with downloads and offline listening.<br>
 <code>React Native</code> <code>Offline audio</code></p>
 <br clear="both">
@@ -90,7 +90,7 @@ Audio learning for medical students, with downloads and offline listening.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/olfaplay/olfaplay-first-page-f61feae0ca0b.webp" alt="Olfaplay: project preview" width="180"><strong><a href="projets/README.md#work-olfaplay">Olfaplay</a></strong><br>
+<p><img align="left" src="assets/projets/olfaplay/olfaplay-first-page-f61feae0ca0b.webp" alt="Olfaplay: project preview" width="180"><strong><a href="projets/olfaplay.md">Olfaplay</a></strong><br>
 Mobile contributions to Guerlain’s audio storytelling platform.<br>
 <code>iOS</code> <code>Android</code> <code>Audio recording</code></p>
 <br clear="both">
@@ -98,7 +98,7 @@ Mobile contributions to Guerlain’s audio storytelling platform.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/laundrapp/laundrapp-first-page-b41b0655ad84.webp" alt="Laundrapp: project preview" width="180"><strong><a href="projets/README.md#work-laundrapp">Laundrapp</a></strong><br>
+<p><img align="left" src="assets/projets/laundrapp/laundrapp-first-page-b41b0655ad84.webp" alt="Laundrapp: project preview" width="180"><strong><a href="projets/laundrapp.md">Laundrapp</a></strong><br>
 Customer and courier Android apps for on-demand laundry services.<br>
 <code>Android</code> <code>Java</code> <code>Google Maps</code></p>
 <br clear="both">
@@ -106,7 +106,7 @@ Customer and courier Android apps for on-demand laundry services.<br>
 
 ---
 
-<p><img align="left" src="assets/projets/anaca3/anaca3-three-screens-e6004bbcfa51.svg" alt="Anaca3: project preview" width="180"><strong><a href="projets/README.md#work-anaca3">Anaca3</a></strong><br>
+<p><img align="left" src="assets/projets/anaca3/anaca3-three-screens-e6004bbcfa51.svg" alt="Anaca3: project preview" width="180"><strong><a href="projets/anaca3.md">Anaca3</a></strong><br>
 Maintenance of a mobile app for scanning food and viewing alternatives.<br>
 <code>Mobile app maintenance</code></p>
 <br clear="both">
@@ -114,7 +114,7 @@ Maintenance of a mobile app for scanning food and viewing alternatives.<br>
 
 ---
 
-<p><img align="left" src="assets/ui/krea-thumbnail-b06e42a03ac9.svg" alt="Kréa: project preview" width="180"><strong><a href="projets/README.md#work-krea">Kréa</a></strong><br>
+<p><img align="left" src="assets/ui/krea-thumbnail-b06e42a03ac9.svg" alt="Kréa: project preview" width="180"><strong><a href="projets/krea.md">Kréa</a></strong><br>
 Visual editor and Lua code generator for Corona SDK mobile projects. Support ended.<br>
 <code>C#/.NET</code> <code>WPF</code> <code>Lua</code></p>
 <br clear="both">
