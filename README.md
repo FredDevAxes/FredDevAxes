@@ -2,7 +2,9 @@
 
 # Frédéric Raimondi
 
-**Senior Mobile Developer** · Android / Kotlin · React Native / TypeScript
+**Full Stack Engineer · Mobile Development Specialist**
+
+TypeScript · Next.js · NestJS · Ruby on Rails · PostgreSQL · React Native · Android / Kotlin
 
 [devaxes.com](https://devaxes.com) · [LinkedIn](https://www.linkedin.com/in/freddev06/) · [Malt](https://www.malt.fr/profile/fredericraimondi)
 
