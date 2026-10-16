@@ -6,10 +6,11 @@ Personal experiments with public code and instructions to run them locally. Each
 
 <a id="lab-compose-atlas"></a>
 
-<p><img align="left" src="../assets/ui/compose-atlas-thumbnail-2de501f0f9e5.svg" alt="Compose Atlas: project preview" width="180"><strong><a href="https://github.com/FredDevAxes/compose-atlas">Compose Atlas</a></strong><br>
-Five interactive Android scenes to explore Jetpack Compose.<br>
-<code>Kotlin</code> <code>Jetpack Compose</code> <code>v0.2.0</code><br>
-Offline lab with synthetic data.</p>
+<p><img align="left" src="../assets/labs/compose-atlas/cover-7ace274dcef8.png" alt="Compose Atlas: project preview" width="180"><strong><a href="https://github.com/FredDevAxes/compose-atlas">Compose Atlas</a></strong><br>
+Eight familiar app moments to explore Jetpack Compose.<br>
+<code>Kotlin</code> <code>Jetpack Compose</code> <code>v0.3.0</code><br>
+Offline lab with fictional data.<br>
+<a href="compose-atlas.md">Explore the eight experiences</a></p>
 <br clear="both">
 
 
